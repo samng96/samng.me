@@ -503,7 +503,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 		
 		&.red {
-			color: _palette(red, bg);
+			color: _palette(red, fg);
 		}
 	}
 
