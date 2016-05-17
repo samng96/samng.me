@@ -9,7 +9,8 @@
 title: Thinking with Passion
 email: sam@samng.me
 description: > # this means to ignore newlines until "baseurl:"
-  "There are two ways to live life. One is to live as though nothing is a miracle. The other is to live as though <i>everything</i> is a miracle." - Albert Einstein
+  There are two ways to live life. One is to live as though nothing is a miracle. 
+  The other is to live as though <i>everything</i> is a miracle. - Albert Einstein
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.samng.me" # the base hostname & protocol for your site
 twitter_username: samng96
