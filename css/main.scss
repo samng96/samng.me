@@ -505,6 +505,10 @@ $baseurl: '{{ site.baseurl }}/images';
 		&.red {
 			color: _palette(red, fg-light);
 		}
+
+		&.orange {
+			color: _palette(orange, fg);
+		}
 	}
 
 /* Image */
