@@ -1,0 +1,17 @@
+<ul>
+    {% assign total = site.posts.size %}
+    {% for tag in site.tags %}
+      {% assign weight = tag[1].size | times: 100 | divided_by: total %}
+      {% assign font_size = 5 %}
+      {% if weight >= 75 %}
+        {% assign font_size = 20 %}
+      {% elsif weight >= 50 %}
+        {% assign font_size = 17 %}
+      {% elsif weight >= 25 %}
+        {% assign font_size = 12 %}
+      {% elsif weight >= 5 %}
+        {% assign font_size = 10 %}
+      {% endif %}
+      <li style="font-size: {{ font_size }}px">{{tag[0]}} - {{weight}}</li>
+    {% endfor %}
+</ul>

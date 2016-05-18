@@ -29,7 +29,8 @@ $baseurl: '{{ site.baseurl }}/images';
 	@include skel-layout((
 		reset: 'full',
 		boxModel: 'border',
-		grid: ( gutters: 1.5em )
+		grid: (gutters: 1.5em),
+    containers: true
 	));
 
 /* Basic */

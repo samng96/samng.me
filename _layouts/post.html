@@ -3,21 +3,20 @@ layout: default
 ---
 <article id="main">
 
-  <header>
-    <h2>{{ page.title }}</h2>
-  </header>
+    <header>
+        <h2>{{ page.title }}</h2>
+        <p>{{ page.subtitle }}</p>
+    </header>
 
-  <section class="wrapper style5">
-    <div class="inner">
-      {{ content }}
-    </div>
-    <div class="">
-        <ul>
-          {% for tag in site.tags %}
-            <li>{{tag[0]}} - {{tag[1].url}}</li>
-          {% endfor %}
-        </ul>
-    </div>
-  </section>
+    <section class="wrapper style5">
+        <div class="row inner">
+            <div class="9u">
+                {{ content }}
+            </div>
+            <div class="2u -1u">
+                {% include tag_list.html %}
+            </div>
+        </div>
+    </section>
 
 </article>
