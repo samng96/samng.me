@@ -78,6 +78,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
 		&:hover {
 			color: #ff0000;
+			border-bottom: dotted 1px;
 		}
 	}
 
