@@ -11,6 +11,13 @@ layout: default
     <div class="inner">
       {{ content }}
     </div>
+    <div class="">
+        <ul>
+          {% for tag in site.tags %}
+            <li>{{tag[0]}} - {{tag[1].url}}</li>
+          {% endfor %}
+        </ul>
+    </div>
   </section>
 
 </article>
