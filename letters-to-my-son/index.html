@@ -1,0 +1,16 @@
+---
+layout: page
+title: Letters to my son
+---
+  <section>
+    <ul>
+      <h2> Letters </h2>
+      {% for post in site.posts %}
+        {% if post.categories contains 'letters-to-my-son' %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </section>

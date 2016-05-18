@@ -20,5 +20,12 @@ title: Tags
   {% endif %}
   {% endfor %}
   {% endfor %}
+  <li>
+    <ul>
+      {% for tag in site.tags %}
+        <li>{{tag[0]}} - {{tag[1].slug}}</li>
+      {% endfor %}
+    </ul>
+  </li>
 </ul>
 </section>

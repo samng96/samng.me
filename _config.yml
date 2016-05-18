@@ -15,6 +15,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.samng.me" # the base hostname & protocol for your site
 twitter_username: samng96
 github_username:  samng96
+permalink: pretty
+
+# Collections
+
+collections:
+  letters-to-my-son:
+    output: true
 
 # Build settings
 markdown: kramdown
