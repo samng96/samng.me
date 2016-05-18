@@ -77,9 +77,6 @@ $baseurl: '{{ site.baseurl }}/images';
 		text-decoration: none;
 		border-bottom-color: transparent;
 
-		&:hover {
-			border-bottom: dotted 1px;
-		}
 	}
 
 	strong, b {
