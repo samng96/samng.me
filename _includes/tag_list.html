@@ -1,17 +1,18 @@
-<ul>
+<div class="tagCloud">
     {% assign total = site.posts.size %}
-    {% for tag in site.tags %}
+    {% for tag in site.tags | map: "0" | sort %}
       {% assign weight = tag[1].size | times: 100 | divided_by: total %}
-      {% assign font_size = 5 %}
-      {% if weight >= 75 %}
-        {% assign font_size = 20 %}
-      {% elsif weight >= 50 %}
-        {% assign font_size = 17 %}
-      {% elsif weight >= 25 %}
-        {% assign font_size = 12 %}
-      {% elsif weight >= 5 %}
-        {% assign font_size = 10 %}
+      {% assign weightStyle = 'weight1' %}
+      {% if weight >= 50 %}
+        {% assign weightStyle = 'weight5' %}
+      {% elsif weight >= 35 %}
+        {% assign weightStyle = 'weight4' %}
+      {% elsif weight >= 20 %}
+        {% assign weightStyle = 'weight3' %}
+      {% elsif weight >= 10 %}
+        {% assign weightStyle = 'weight2' %}
       {% endif %}
-      <li style="font-size: {{ font_size }}px">{{tag[0]}} - {{weight}}</li>
+      <span class="tag {{weightStyle}}">
+        <a href="/tags/{{tag[0]}}/">{{tag[0]}}</a> ({{tag[1].size}})</span>
     {% endfor %}
-</ul>
+</div>
