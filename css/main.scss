@@ -585,6 +585,17 @@ $baseurl: '{{ site.baseurl }}/images';
 
 		li {
 			padding-left: 0.5em;
+
+			a {
+				@include vendor('transition', ('color #{_duration(transitions)} ease', 'border-bottom-color #{_duration(transitions)} ease'));
+				color: #aa0000;
+				text-decoration: none;
+
+				&:hover {
+					color: #ff0000;
+					border-bottom: dotted 1px;
+				}
+			}
 		}
 
 		&.alt {
