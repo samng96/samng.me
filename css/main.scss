@@ -71,17 +71,6 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 	}
 
-	a {
-		@include vendor('transition', ('color #{_duration(transitions)} ease', 'border-bottom-color #{_duration(transitions)} ease'));
-		color: _palette($p, fg);
-		text-decoration: none;
-		border-bottom-color: transparent;
-
-		&:hover {
-			border-bottom: dotted 1px;
-		}
-	}
-
 	strong, b {
 		color: _palette(fg-bold);
 		font-weight: _font(weight-bold);
