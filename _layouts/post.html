@@ -12,6 +12,9 @@ layout: default
         <div class="row inner">
             <div class="9u">
                 {{ content }}
+                {% for tag in page.tags %}
+                    {{ tag }} |
+                {% endfor %}
             </div>
             <div class="3u">
                 {% include tag_list.html %}
