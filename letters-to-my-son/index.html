@@ -1,9 +1,17 @@
 ---
-layout: post
-title: Letters to my son
-subtitle: A collection of thoughts and lessons I've learned along the way for my little man, and anyone else that's interested.
+layout: default
 ---
-<section>
+<article id="main">
+
+    <header>
+        <h2>Letters to my son</h2>
+        <p>A collection of thoughts and lessons I've learned along the way for my little man, and anyone else that's interested.</p>
+    </header>
+
+    <section class="wrapper style5">
+        <div class="row inner">
+            <div class="9u">
+
   {% assign count = 0 %}
   {% for post in site.posts %}
     {% if count < 5 and post.categories contains 'letters-to-my-son' %}
@@ -19,8 +27,16 @@ subtitle: A collection of thoughts and lessons I've learned along the way for my
             {% endfor %}
         {% endif %}
       </div>
-<hr/>
+      <hr/>
     {% assign count = count | plus: 1 %}
     {% endif %}
   {% endfor %}
-</section>
+
+            </div>
+            <div class="3u">
+                {% include tag_list.html %}
+            </div>
+        </div>
+    </section>
+
+</article>
