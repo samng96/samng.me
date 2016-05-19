@@ -1068,16 +1068,16 @@ $baseurl: '{{ site.baseurl }}/images';
       font-size: $baseSize;
     }
     &.weight2 {
-      font-size: $baseSize * 1.3;
+      font-size: $baseSize * 1.1;
     }
     &.weight3 {
-      font-size: $baseSize * 1.5;
+      font-size: $baseSize * 1.3;
     }
     &.weight4 {
-      font-size: $baseSize * 1.7;
+      font-size: $baseSize * 1.5;
     }
     &.weight5 {
-      font-size: $baseSize * 2.0;
+      font-size: $baseSize * 1.8;
     }
   }
 }
