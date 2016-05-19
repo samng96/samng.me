@@ -16,9 +16,9 @@ layout: default
                 {% if page.tags != nil %}
                     Tags:
                     <div class="tagCloud">
-                    {% for tag in page.tags %}
-                        #<span class="tag weight1"><a href="/tags/{{ tag | downcase | replace: ' ', '-' | url_encode }}">{{ tag }}</a></span>
-                    {% endfor %}
+                        {% for tag in page.tags %}
+                            #<span class="tag weight1"><a href="/tags/{{ tag | downcase | replace: ' ', '-' | url_encode }}">{{ tag }}</a></span>
+                        {% endfor %}
                     </div>
                 {% endif %}
             </div>
