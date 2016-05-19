@@ -15,9 +15,9 @@ layout: default
                 Posted at {{ page.date }}<br>
                 {% if page.tags != nil %}
                     Tags:
-                    <div class="tagCloud">
+                    <div class="links">
                         {% for tag in page.tags %}
-                            #<span class="tag weight1"><a href="/tags/{{ tag | downcase | replace: ' ', '-' | url_encode }}">{{ tag }}</a></span>
+                            #<a href="/tags/{{ tag | downcase | replace: ' ', '-' | url_encode }}">{{ tag }}</a>
                         {% endfor %}
                     </div>
                 {% endif %}
