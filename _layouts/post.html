@@ -13,7 +13,7 @@ layout: default
             <div class="9u">
                 <p>{{ content }}</p>
                 <div class="links">
-                    Posted at <div class="links"><a href="{{ post.url }}">{{ page.date | date: "%B %-d, %Y }}</a></div><br>
+                    Posted at <a href="{{ post.url }}">{{ page.date | date: "%B %-d, %Y }}</a><br>
                     {% if page.tags != nil %}
                     Tags:
                         {% for tag in page.tags %}
