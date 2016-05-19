@@ -1,6 +1,16 @@
 ---
 layout: default
 ---
+<article id="main">
+
+    <header>
+        <h2>Letters to my son</h2>
+        <p>A collection of thoughts and lessons I've learned along the way for my little man, and anyone else that's interested.</p>
+    </header>
+
+    <section class="wrapper style5">
+        <div class="row inner">
+            <div class="9u">
 {% for post in site.posts %}
   {% if post.tags contains page.tag_name %}
     <h2><div class="links"><a href="{{ post.url }}">{{ post.title }}</a></div></h2>
@@ -18,3 +28,10 @@ layout: default
 
   {% endif %}
 {% endfor %}
+            <div class="3u">
+                {% include tag_list.html %}
+            </div>
+        </div>
+    </section>
+
+</article>
