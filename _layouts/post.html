@@ -16,7 +16,7 @@ layout: default
                 {% if page.tags != nil %}
                     Tags:
                     {% for tag in page.tags %}
-                        #<a href="/tags/{{ tag | downcase | replace: ' ', '-' | url_encode }}">{{ tag }}</a>
+                        #<span class="tag weight1"><a href="/tags/{{ tag | downcase | replace: ' ', '-' | url_encode }}">{{ tag }}</a></span>
                     {% endfor %}
                 {% endif %}
             </div>
