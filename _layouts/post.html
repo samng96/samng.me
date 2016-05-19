@@ -14,8 +14,8 @@ layout: default
                 <p>{{ content }}</p>
                 Posted at {{ page.date }}<br>
                 {% if page.tags != nil %}
-                    Tags:
                     <div class="links">
+                    Tags:
                         {% for tag in page.tags %}
                             #<a href="/tags/{{ tag | downcase | replace: ' ', '-' | url_encode }}">{{ tag }}</a>
                         {% endfor %}
