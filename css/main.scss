@@ -1284,7 +1284,7 @@ $baseurl: '{{ site.baseurl }}/images';
 	}
 
 	.wrapper {
-		@include padding(6em, 0);
+		@include padding(3em, 0);
 
 		> .inner {
 			width: 60em;
