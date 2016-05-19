@@ -12,15 +12,6 @@ layout: default
         <div class="row inner">
             <div class="9u">
                 <p>{{ content }}</p>
-                Posted at {{ page.date }}<br>
-                {% if page.tags != nil %}
-                    Tags:
-                    <div class="links">
-                        {% for tag in page.tags %}
-                            #<a href="/tags/{{ tag | downcase | replace: ' ', '-' | url_encode }}">{{ tag }}</a>
-                        {% endfor %}
-                    </div>
-                {% endif %}
             </div>
             <div class="3u">
                 {% include tag_list.html %}
