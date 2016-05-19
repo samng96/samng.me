@@ -4,8 +4,8 @@ layout: default
 <article id="main">
 
     <header>
-        <h2>{{ page.title }}</h2>
-        <p>{{ page.post }}</p>
+        <h2>{{ page.title | default: site.title }}</h2>
+        <p>{{ page.subtitle | default: site.description }}</p>
     </header>
 
     <section class="wrapper style5">
