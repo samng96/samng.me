@@ -12,7 +12,7 @@ title: Letters to my son
     <section class="wrapper style5">
         <div class="row inner">
             <div class="9u">
-                <h2><b>Posts tagged with</b> {{ page.tag_name }}</h2>
+                <h2><b>Posts tagged with</b> #{{ page.tag_name }}</h2>
 
 {% for post in site.posts %}
   {% if post.tags contains page.tag_name %}
