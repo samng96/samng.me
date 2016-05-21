@@ -16,10 +16,12 @@ title: Archive
                 {% assign currentYear = 2016 %}
                 <h2> {{ currentYear }}</h2>
                 {% for post in site.posts %}
-                {% (if post.date | date: "%Y") != currentYear %}
-                  {% assign currentYear = post.date | date: "%Y" %} 
-                  <h2>{{ currentYear }}</h2>
-                {% endif %}
+
+                  {% assign postYear = post.date | date: "%Y" %}
+                  {% if (post.date | date: "%Y") != currentYear %}
+                    {% assign currentYear = post.date | date: "%Y" %} 
+                    <h2>{{ currentYear }}</h2>
+                  {% endif %}
                   <li>
                     <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}
                   </li>
