@@ -5,8 +5,8 @@ title: Archive
 <article id="main">
 
     <header>
-        <h2>Letters to my son</h2>
-        <p>A collection of thoughts and lessons I've learned along the way for my little man, and anyone else that's interested.</p>
+        <h2>Archive</h2>
+        <p>{{ site.description }}</p>
     </header>
 
     <section class="wrapper style5">
@@ -20,6 +20,7 @@ title: Archive
                   {% assign postYear = post.date | date: "%Y" %}
                   {% if postYear != currentYear %}
                     {% assign currentYear = post.date | date: "%Y" %} 
+                    <br/>
                     <h2>{{ currentYear }}</h2>
                   {% endif %}
                   <li>
