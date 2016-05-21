@@ -2,13 +2,29 @@
 layout: default
 title: Archive
 ---
-  <section>
-    <ul>
-      <h2> All Posts </h2>
-      {% for post in site.posts %}
-        <li>
-          <a href="{{ post.url }}">{{ post.title }}</a> - {{ page.date | date: "%B %-d, %Y" }}
-        </li>
-      {% endfor %}
-    </ul>
-  </section>
+<article id="main">
+
+    <header>
+        <h2>Letters to my son</h2>
+        <p>A collection of thoughts and lessons I've learned along the way for my little man, and anyone else that's interested.</p>
+    </header>
+
+    <section class="wrapper style5">
+        <div class="row inner">
+            <div class="9u">
+              <ul>
+                <h2> All Posts </h2>
+                {% for post in site.posts %}
+                  <li>
+                    <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}
+                  </li>
+                {% endfor %}
+              </ul>
+            </div>
+            <div class="3u">
+                {% include tag_list.html %}
+            </div>
+        </div>
+    </section>
+
+</article>
