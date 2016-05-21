@@ -11,10 +11,10 @@ layout: default
     <section class="wrapper style5">
         <div class="row inner">
             <div class="9u">
-                <h2><div class="links"><a href="{{ post.url }}">{{ post.title }}</a></div></h2>
+                <h2><div class="links"><a href="{{ page.url }}">{{ page.title }}</a></div></h2>
                 <p>{{ content }}</p>
                 <div class="links">
-                    Posted on <a href="{{ post.url }}">{{ page.date | date: "%B %-d, %Y" }}</a><br>
+                    Posted on <a href="{{ page.url }}">{{ page.date | date: "%B %-d, %Y" }}</a><br>
                     {% if page.tags != nil %}
                     Tags:
                         {% for tag in page.tags %}
