@@ -31,7 +31,7 @@
       {% assign firstLoop = false %}
     {% endfor %}
     <li id="archive{{currentYear}}">
-      <h5>{{ currentYear }} ({{post_count}})</h5>
+      <h5 id="archive-nav{{ currentYear }}"><a href="#archive-nav{{ currentYear }}">{{ currentYear }}</a> ({{post_count}})</h5>
       <ul class="alt" style="display: none">
         {{ post_list }}
       </ul>
