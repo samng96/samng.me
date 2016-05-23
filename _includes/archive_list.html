@@ -1,5 +1,5 @@
 <div>
-  <h2>Archive</h2>
+  <h4>Archive</h4>
 
   <!-- Go through once and count the number per year -->
   {% assign firstPost = site.posts.first %}
@@ -8,14 +8,14 @@
   {% assign post_list = '' %}
   {% assign firstLoop = true %}
 
-  <ul>
+  <ul class="alt">
     {% for post in site.posts %}
       {% assign postYear = post.date | date: "%Y" %}
       {% if postYear != currentYear %}
         {% if firstLoop == false %}
           </ul>
-          <h2 id="{{ currentYear }}">{{ currentYear }} ({{post_count}})</h2>
-          <ul>
+          <h5 id="{{ currentYear }}">{{ currentYear }} ({{post_count}})</h5>
+          <ul class="alt">
         {% endif %}
 
         {{ post_list }}
@@ -35,8 +35,8 @@
       {% assign firstLoop = false %}
     {% endfor %}
     </ul>
-    <h2>{{ currentYear }} ({{post_count}})</h2>
-    <ul>
+    <h5>{{ currentYear }} ({{post_count}})</h5>
+    <ul class="alt">
     {{ post_list }}
   </ul>
 </div>
