@@ -25,6 +25,7 @@
 
 
         var selected = null;
+
         function toggle(headerNode) {
             $(headerNode).parent().siblings('ul').toggle()
         }
@@ -32,6 +33,9 @@
         $('.archive-nav').click(function(event) {
           if(selected !== null && selected !== this) {
             toggle(selected);
+          }
+          else {
+            selected = null;
           }
 
           selected = this;
