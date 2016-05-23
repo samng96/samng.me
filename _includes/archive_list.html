@@ -1,35 +1,40 @@
 <div>
-  {% assign currentYear = site.posts | first | map: date | date: "%Y" %}
-  {% assign postsPerYear = "" | split: 'nothing' %}
-  {% assign currentPostsPerYear = 0 %}
-  <h2>Archive</h2>
+  <h4>Archive</h4>
 
   <!-- Go through once and count the number per year -->
-  {% for post in site.posts %}
+  <ul class="alt">
+    {% for post in site.posts %}
+      {% assign postYear = post.date | date: "%Y" %}
+      {% if postYear != currentYear %}
+        {% if firstLoop == false %}
+          <li class="archive-nav" id="archive{{currentYear}}">
+          <h5 id="archive-nav{{ currentYear }}"><a href="#archive-nav{{ currentYear }}">{{ currentYear }}</a> ({{post_count}})</h5>
 
-    {% assign postYear = post.date | date: "%Y" %}
-    {% if postYear != currentYear %}
-      {% assign currentYear = post.date | date: "%Y" %}
-      {% assign postsPerYear = postsPerYear | push: currentPostsPerYear %}
-      {% assign currentPostsPerYear = 0 %}
-    {% endif %}
-    {% assign currentPostsPerYear = currentPostsPerYear | plus: 1 %}
-  {% endfor %}
 
-  <!-- Now go through and print them out -->
-  {% assign yearIndex = 1 %}
-  {% for post in site.posts %}
+          <ul class="alt" style="display: none">
+            {{ post_list }}
+          </ul>
+        {% endif %}
 
-    {% assign postYear = post.date | date: "%Y" %}
-    {% if postYear != currentYear %}
-      {% assign currentYear = post.date | date: "%Y" %}
-      {% assign currentPostsPerYear = postsPerYear[yearIndex] %}
-      {% assign yearIndex = yearIndex | plus: 1 %}
-      <h2>{{ currentYear }} ({{currentPostsPerYear}})</h2>
-    {% endif %}
-    
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}
+        {% assign post_count = 0 %}
+        {% assign post_list = '' %}
+        {% assign currentYear = post.date | date: "%Y" %}
+
+      {% endif %}
+      {% capture post_list %}
+      {{ post_list }}
+      <li>
+        {{post.date | date: "%b"}} - <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+      {% assign post_count = post_count | plus: 1 %}
+      {% endcapture %}
+      {% assign firstLoop = false %}
+    {% endfor %}
+    <li id="archive{{currentYear}}">
+      <h5 id="archive-nav{{ currentYear }}"><a href="#archive-nav{{ currentYear }}">{{ currentYear }}</a> ({{post_count}})</h5>
+      <ul class="alt" style="display: none">
+        {{ post_list }}
+      </ul>
     </li>
-  {% endfor %}
+  </ul>
 </div>

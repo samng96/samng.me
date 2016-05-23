@@ -23,6 +23,27 @@
 			$banner = $('#banner'),
 			$header = $('#header');
 
+
+        var selected = null;
+        function toggle(headerNode) {
+            $(headerNode).siblings('ul').toggle()
+        }
+
+        $('.archive-nav > h5').click(function() {
+          if(selected !== null && selected !== this) {
+          toggle(selected);
+          }
+          selected = this;
+          toggle(selected);
+          $(selected)
+    				.scrolly({
+    					speed: 1500,
+    					offset: $header.outerHeight()
+    				});
+
+            return false;
+        });
+
 		// Disable animations/transitions until the page has loaded.
 			$body.addClass('is-loading');
 
