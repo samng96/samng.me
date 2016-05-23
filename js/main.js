@@ -34,11 +34,13 @@
           if(selected !== null && selected !== this) {
             toggle(selected);
           }
-          else {
+          else if (selected === this){
             selected = null;
           }
+          else {
+            selected = this;
+          }
 
-          selected = this;
 
           toggle(selected);
 
