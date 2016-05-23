@@ -29,19 +29,23 @@
             $(headerNode).siblings('ul').toggle()
         }
 
-        $('.archive-nav > h5').click(function(event) {
+        $('.archive-nav').click(function(event) {
           if(selected !== null && selected !== this) {
-          toggle(selected);
+            toggle(selected);
           }
+
           selected = this;
+
           toggle(selected);
+
           $(selected)
     				.scrolly({
     					speed: 1500,
     					offset: $header.outerHeight()
     				});
 
-            event.preventDefault()
+            event.preventDefault();
+            event.stopPropagation();
 
             return false;
         });
