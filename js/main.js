@@ -26,23 +26,25 @@
 
         var selected = null;
 
-        function toggle(headerNode) {
-            $(headerNode).parent().siblings('ul').toggle()
+        function postsListsForNode(archiveNavNode) {
+            return $(archiveNavNode).parent().siblings('ul');
         }
 
         $('.archive-nav').click(function(event) {
           if(selected !== null && selected !== this) {
-            toggle(selected);
+            postsListsForNode(selected).hide();
+            selected = this;
+            postsListsForNode(selected).show();
           }
-          else if (selected === this){
+          else if (selected !== null && selected === this){
+            postsListsForNode(selected).hide();
             selected = null;
           }
           else {
             selected = this;
+            postsListsForNode(this).show();
           }
 
-
-          toggle(selected);
 
           // $(selected)
     				// .scrolly({
