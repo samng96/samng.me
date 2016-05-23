@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<article id="main">
+
+    <header>
+        <h2>{{ page.title | default: site.title }}</h2>
+        <p>{{ page.subtitle | default: site.description }}</p>
+    </header>
+
+    <section class="wrapper style5">
+        <div class="row inner">
+            <div class="9u">
+                {{ content }}
+            </div>
+            {% include sidenav.html %}
+        </div>
+    </section>
+
+</article>
