@@ -29,7 +29,7 @@
             $(headerNode).siblings('ul').toggle()
         }
 
-        $('.archive-nav > h5').click(function() {
+        $('.archive-nav > h5').click(function(event) {
           if(selected !== null && selected !== this) {
           toggle(selected);
           }
@@ -40,6 +40,8 @@
     					speed: 1500,
     					offset: $header.outerHeight()
     				});
+
+            event.preventDefault()
 
             return false;
         });
