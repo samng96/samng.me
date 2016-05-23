@@ -26,7 +26,7 @@
 
         var selected = null;
         function toggle(headerNode) {
-            $(headerNode).siblings('ul').toggle()
+            $(headerNode).parent().siblings('ul').toggle()
         }
 
         $('.archive-nav').click(function(event) {
@@ -40,7 +40,7 @@
 
           $(selected)
     				.scrolly({
-    					speed: 1500,
+    					speed: 200,
     					offset: $header.outerHeight()
     				});
 
