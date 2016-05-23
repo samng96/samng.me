@@ -11,7 +11,7 @@ layout: default
     <section class="wrapper style5">
         <div class="row inner">
             <div class="9u">
-                <h2><b>Posts posted in </b>{{ page.year }}</h2>
+                <h2><b>Posts posted in </b>{{ page.archive_year }}</h2>
 
 {% for post in site.posts %}
   {% assign postYear = post.date | date: "%Y" %}
