@@ -17,7 +17,7 @@
   {% endfor %}
 
   <!-- Now go through and print them out -->
-  {% assign yearIndex = 0 %}
+  {% assign yearIndex = 1 %}
   {% for post in site.posts %}
 
     {% assign postYear = post.date | date: "%Y" %}
@@ -25,7 +25,6 @@
       {% assign currentYear = post.date | date: "%Y" %}
       {% assign currentPostsPerYear = postsPerYear[yearIndex] %}
       {% assign yearIndex = yearIndex | plus: 1 %}
-      <br/>
       <h2>{{ currentYear }} ({{currentPostsPerYear}})</h2>
     {% endif %}
     
