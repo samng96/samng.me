@@ -6,20 +6,3 @@
 <script src="{{ "/js/util.js" | prepend: site.baseurl }}"></script>
 <!--[if lte IE 8]><script src="{{ "/js/ie/respond.min.js" | prepend: site.baseurl }}"></script><![endif]-->
 <script src="{{ "/js/main.js" | prepend: site.baseurl }}"></script>
-
-<script>
-$(function() {
-  var selected = null;
-  function toggle(headerNode) {
-      $(headerNode).siblings('ul').toggle()
-  }
-
-  $('.archive-nav > h5').click(function() {
-    if(selected !== null && selected !== this) {
-    toggle(selected);
-    }
-    selected = this;
-    toggle(selected);
-  });
-})
-</script>
