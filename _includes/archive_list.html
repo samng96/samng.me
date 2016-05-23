@@ -13,12 +13,14 @@
       {% assign postYear = post.date | date: "%Y" %}
       {% if postYear != currentYear %}
         {% if firstLoop == false %}
-          </ul>
-          <h5 id="{{ currentYear }}">{{ currentYear }} ({{post_count}})</h5>
-          <ul class="alt">
-        {% endif %}
+          <li class="archive-nav" id="archive{{currentYear}}">
+          <h5>{{ currentYear }} ({{post_count}})</h5>
 
-        {{ post_list }}
+
+          <ul class="alt" style="display: none">
+            {{ post_list }}
+          </ul>
+        {% endif %}
 
         {% assign post_count = 0 %}
         {% assign post_list = '' %}
@@ -34,9 +36,11 @@
       {% endcapture %}
       {% assign firstLoop = false %}
     {% endfor %}
-    </ul>
-    <h5>{{ currentYear }} ({{post_count}})</h5>
-    <ul class="alt">
-    {{ post_list }}
+    <li id="archive{{currentYear}}">
+      <h5>{{ currentYear }} ({{post_count}})</h5>
+      <ul class="alt" style="display: none">
+        {{ post_list }}
+      </ul>
+    </li>
   </ul>
 </div>
