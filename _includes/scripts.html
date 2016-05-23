@@ -10,11 +10,16 @@
 <script>
 $(function() {
   var selected = null;
+  function toggle(headerNode) {
+      $(headerNode).siblings('ul').toggle()
+  }
+
   $('.archive-nav > h5').click(function() {
-    if(selected !== null) {
-      $(selected).toggle();
+    if(selected !== null && selected !== this) {
+    toggle(selected);
     }
-    selected = $(this).siblings('ul').toggle();
+    selected = this;
+    toggle(selected);
   });
 })
 </script>

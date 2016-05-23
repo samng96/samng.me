@@ -2,12 +2,6 @@
   <h4>Archive</h4>
 
   <!-- Go through once and count the number per year -->
-  {% assign firstPost = site.posts.first %}
-  {% assign currentYear = '' %}
-
-  {% assign post_list = '' %}
-  {% assign firstLoop = true %}
-
   <ul class="alt">
     {% for post in site.posts %}
       {% assign postYear = post.date | date: "%Y" %}
