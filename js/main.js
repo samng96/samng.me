@@ -26,22 +26,26 @@
 
         var selected = null;
         function toggle(headerNode) {
-            $(headerNode).siblings('ul').toggle()
+            $(headerNode).parent().siblings('ul').toggle()
         }
 
-        $('.archive-nav > h5').click(function(event) {
+        $('.archive-nav').click(function(event) {
           if(selected !== null && selected !== this) {
-          toggle(selected);
+            toggle(selected);
           }
-          selected = this;
-          toggle(selected);
-          $(selected)
-    				.scrolly({
-    					speed: 1500,
-    					offset: $header.outerHeight()
-    				});
 
-            event.preventDefault()
+          selected = this;
+
+          toggle(selected);
+
+          // $(selected)
+    				// .scrolly({
+    				// 	speed: 200,
+    				// 	offset: $header.outerHeight()
+    				// });
+
+            event.preventDefault();
+            event.stopPropagation();
 
             return false;
         });
