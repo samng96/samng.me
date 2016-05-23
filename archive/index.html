@@ -12,16 +12,18 @@ title: Archive
     <section class="wrapper style5">
         <div class="row inner">
             <div class="9u">
-              <ul>
-                {% assign currentYear = '2016' %}
-                <h2> {{ currentYear }}</h2>
-                {% for post in site.posts %}
 
+              {% assign currentYear = site.posts | first | map: date | date: "%Y" %}
+              <h2>{{ currentYear }}</h2>
+
+              <ul>
+                {% for post in site.posts %}
                   {% assign postYear = post.date | date: "%Y" %}
                   {% if postYear != currentYear %}
                     {% assign currentYear = post.date | date: "%Y" %}
-                    <br/>
-                    <h2>{{ currentYear }}</h2>
+                    </ul>
+                      <h2>{{ currentYear }}</h2>
+                    <ul>
                   {% endif %}
                   <li>
                     <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}
