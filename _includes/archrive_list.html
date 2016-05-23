@@ -1,0 +1,51 @@
+<div class="tagCloud">
+    {% assign total = site.posts.size %}
+
+    {% assign posts = site.posts | where_exp:"item", "item.categories contains 'letters-to-my-son'" %}
+    {% assign years = "" | split: 'nothing' %}
+    {% assign yearMonths = "" | split: 'nothing' %}
+
+    {% for post in posts %}
+      {% assign dateParts = post.date | date_to_xmlschema | split: 'T' | first | split: '-' %}
+
+      {% assign year = dateParts[0] %}
+      {% assign month = dateParts[1] %}
+
+      {% assign yearMonth = year | append: '-' | append: month %}
+
+      {% assign years = years | push: year %}
+      {% assign yearMonths = yearMonths | push: yearMonth %}
+    {% endfor %}
+
+    {% assign years = years | uniq %}
+    {% assign yearMonths = yearMonths | uniq %}
+
+    {% for year in years %}
+
+      <li>{{year}}
+        <ul>
+            {% for yearMonth in yearMonths %}
+              {% assign yearMonthParts = yearMonth | split: '-' %}
+              {% if yearMonthParts[0] == year %}
+                <li>{{yearMonthParts[1]}}
+                  <ul>
+                    {% for post in posts %}
+                      {% assign dateParts = post.date | date_to_xmlschema | split: 'T' | first | split: '-' %}
+
+                      {% assign postYear = dateParts[0] %}
+                      {% assign postMonth = dateParts[1] %}
+
+                      {% if year == postYear and yearMonthParts[1] == postMonth %}
+                        <li><a href="{{post.url}}">{{post.title}}</a></li>
+                      {% endif %}
+
+                    {% endfor %}
+                  </ul>
+                </li>
+              {% endif %}
+            {% endfor %}
+        </ul>
+      </li>
+
+    {% endfor %}
+</div>
