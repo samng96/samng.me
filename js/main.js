@@ -38,11 +38,11 @@
 
           toggle(selected);
 
-          $(selected)
-    				.scrolly({
-    					speed: 200,
-    					offset: $header.outerHeight()
-    				});
+          // $(selected)
+    				// .scrolly({
+    				// 	speed: 200,
+    				// 	offset: $header.outerHeight()
+    				// });
 
             event.preventDefault();
             event.stopPropagation();
