@@ -16,6 +16,8 @@ layout: default
 
 {% for post in site.posts %}
   {% assign postYear = post.date | date: "%Y" %}
+  {{ archiveYear }}
+  {{ postYear }}
   {% if postYear == page.archive_year %}
     <h2><div class="links"><a href="{{ post.url }}">{{ post.title }}</a></div></h2>
     <p>{{ post.content }}</p>
