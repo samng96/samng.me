@@ -13,7 +13,9 @@ title: Archive
         <div class="row inner">
             <div class="9u">
 
-              {% assign currentYear = site.posts | first | map: date | date: "%Y" %}
+              {% assign firstPost = site.posts.first %}
+
+              {% assign currentYear = firstPost.date | date: "%Y" %}
               <h2>{{ currentYear }}</h2>
 
               <ul>
