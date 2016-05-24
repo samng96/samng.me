@@ -30,14 +30,22 @@
             return $(archiveNavNode).parent().siblings('ul');
         }
 
-        $('.archive-nav').click(function(event) {
+        $('.archive-nav')
+		.click(function(event) {
           if(selected !== null && selected !== this) {
             postsListsForNode(selected).hide();
             selected = this;
             postsListsForNode(selected).show();
+			
+			$(this)
+				.scrolly({
+					speed: 200,
+					offset: $header.outerHeight()
+				});
           }
           else if (selected !== null && selected === this){
             postsListsForNode(selected).hide();
+			
             selected = null;
           }
           else {
@@ -45,18 +53,15 @@
             postsListsForNode(this).show();
           }
 
-
-          // $(selected)
-    				// .scrolly({
-    				// 	speed: 200,
-    				// 	offset: $header.outerHeight()
-    				// });
-
             event.preventDefault();
             event.stopPropagation();
 
             return false;
-        });
+        })
+		.scrolly({ // this needs to be added after the toggle event is added
+			speed: 200,
+			offset: $header.outerHeight()
+		});
 
 		// Disable animations/transitions until the page has loaded.
 			$body.addClass('is-loading');
