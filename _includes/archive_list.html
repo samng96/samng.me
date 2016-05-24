@@ -2,7 +2,6 @@
   <h4>Archive</h4>
 
   <!-- Go through once and count the number per year -->
-  <ul class="alt">
     {% for post in site.posts %}
       {% assign postYear = post.date | date: "%Y" %}
       {% if postYear != currentYear %}
@@ -32,5 +31,4 @@
         {{ post_list }}
       </ul>
     </li>
-  </ul>
 </div>
