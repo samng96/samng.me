@@ -22,7 +22,8 @@
       {% endif %}
       {% capture post_list %}
       {{ post_list }}
-      {{post.date | date: "%b"}} - <a href="{{ post.url }}">{{ post.title }}</a><br>
+      <p class="2u">{{post.date | date: "%b"}} - </p>
+      <p class="10u"><a href="{{ post.url }}">{{ post.title }}</a></p>
       {% assign post_count = post_count | plus: 1 %}
       {% endcapture %}
       {% assign firstLoop = false %}
