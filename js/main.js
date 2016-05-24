@@ -36,12 +36,6 @@
             postsListsForNode(selected).hide();
             selected = this;
             postsListsForNode(selected).show();
-			
-			$(this)
-				.scrolly({
-					speed: 200,
-					offset: $header.outerHeight()
-				});
           }
           else if (selected !== null && selected === this){
             postsListsForNode(selected).hide();
