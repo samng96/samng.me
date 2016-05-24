@@ -7,8 +7,8 @@
       {% assign postYear = post.date | date: "%Y" %}
       {% if postYear != currentYear %}
         {% if firstLoop == false %}
-          <div id="archive{{currentYear}}">
-            <div id="archive-nav{{ currentYear }}"><a class="archive-nav" href="#archive-nav{{ currentYear }}">X</a> <a class="links" href="/archive/{{ currentYear }}">{{ currentYear }}</a> ({{post_count}})</div>
+          <div id="archive{{currentYear}}" class="smallAllCaps">
+            <div id="archive-nav{{ currentYear }}"><a class="archive-nav" href="#archive-nav{{ currentYear }}">X</a> <a href="/archive/{{ currentYear }}">{{ currentYear }}</a> ({{post_count}})</div>
             <div class="alt" style="display: none">
               {{ post_list }}
             </div>
@@ -27,8 +27,8 @@
       {% endcapture %}
       {% assign firstLoop = false %}
     {% endfor %}
-    <div id="archive{{currentYear}}">
-      <div id="archive-nav{{ currentYear }}"><a class="archive-nav" href="#archive-nav{{ currentYear }}">X</a> <a class="links" href="/archive/{{ currentYear }}">{{ currentYear }}</a> ({{post_count}})</div>
+    <div id="archive{{currentYear}}" class="smallAllCaps">
+      <div id="archive-nav{{ currentYear }}"><a class="archive-nav" href="#archive-nav{{ currentYear }}">X</a> <a href="/archive/{{ currentYear }}">{{ currentYear }}</a> ({{post_count}})</div>
       <div class="alt" style="display: none">
         {{ post_list }}
       </div>
