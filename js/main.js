@@ -27,7 +27,7 @@
         var selected = null;
 
         function postsListsForNode(archiveNavNode) {
-            return $(archiveNavNode).parent().siblings('ul');
+            return $(archiveNavNode).parent().siblings('div');
         }
 
         $('.archive-nav')
@@ -57,11 +57,7 @@
             event.stopPropagation();
 
             return false;
-        })
-		.scrolly({ // this needs to be added after the toggle event is added
-			speed: 200,
-			offset: $header.outerHeight()
-		});
+        });
 
 		// Disable animations/transitions until the page has loaded.
 			$body.addClass('is-loading');
