@@ -3,6 +3,10 @@
 
   <div class="links">
   <!-- Go through once and count the number per year -->
+    {% assign currentYear = '' %}
+    {% assign post_list = '' %}
+    {% firstLoop = true %}
+
     {% for post in site.posts %}
       {% assign postYear = post.date | date: "%Y" %}
       {% if postYear != currentYear %}
