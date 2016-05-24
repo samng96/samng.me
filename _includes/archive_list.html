@@ -1,16 +1,18 @@
 <div>
   <h4>Archive</h4>
 
+  <div class="links">
   <!-- Go through once and count the number per year -->
     {% for post in site.posts %}
       {% assign postYear = post.date | date: "%Y" %}
       {% if postYear != currentYear %}
         {% if firstLoop == false %}
-          <li id="archive{{currentYear}}">
-          <h5 id="archive-nav{{ currentYear }}"><a class="archive-nav" href="#archive-nav{{ currentYear }}">X</a> <a class="links" href="/archive/{{ currentYear }}">{{ currentYear }}</a> ({{post_count}})</h5>
-          <ul class="alt" style="display: none">
-            {{ post_list }}
-          </ul>
+          <div id="archive{{currentYear}}">
+            <h5 id="archive-nav{{ currentYear }}"><a class="archive-nav" href="#archive-nav{{ currentYear }}">X</a> <a class="links" href="/archive/{{ currentYear }}">{{ currentYear }}</a> ({{post_count}})</h5>
+            <div class="alt" style="display: none">
+              {{ post_list }}
+            </div>
+          </div>
         {% endif %}
 
         {% assign post_count = 0 %}
@@ -25,10 +27,11 @@
       {% endcapture %}
       {% assign firstLoop = false %}
     {% endfor %}
-    <li id="archive{{currentYear}}">
+    <div id="archive{{currentYear}}">
       <h5 id="archive-nav{{ currentYear }}"><a class="archive-nav" href="#archive-nav{{ currentYear }}">X</a> <a class="links" href="/archive/{{ currentYear }}">{{ currentYear }}</a> ({{post_count}})</h5>
-      <ul class="alt" style="display: none">
+      <div class="alt" style="display: none">
         {{ post_list }}
-      </ul>
-    </li>
+      </div>
+    </div>
+  </div>
 </div>
