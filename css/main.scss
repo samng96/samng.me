@@ -1071,7 +1071,8 @@ $baseurl: '{{ site.baseurl }}/images';
 
   .smallAllCaps
   {
-    font-variant: small-caps;
+  	font-size: 80%;
+    font-variant: all-caps;
   }
 }
 
