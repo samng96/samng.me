@@ -1705,7 +1705,7 @@ $baseurl: '{{ site.baseurl }}/images';
 /* CTA */
 
 	#cta {
-		background-image: "#{$baseurl}/banner.jpg";
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg");
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
