@@ -1,0 +1,32 @@
+---
+layout: default
+title: Photography
+---
+<article id="main">
+    <header>
+      <h2>Photography</h2>
+      <p>"A great photograph is one that fully expresses what one feels, in the deepest sense, about what is being photographed." ― Ansel Adams</p>
+    </header>
+
+    <section id="three" class="wrapper">
+    <div class="inner">
+      <ul class="features">
+        {{ page.title }}<br>
+        {{ page.date }}<br>
+        {{ page.azure_location }}<br>
+        {{ page.thumbnail }}<br>
+        
+        {% assign sortedPhotos = site.photos | sort: date | reverse %}
+        {% for photo in sortedPhotos %}
+        <li>
+          <center>
+            <h3>{{ photo.title }}</h3>
+            <p><a href="{{ photo.url }}"><img width=320 src="{{ photo.thumbnail }}"></a></p>
+          </center>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </section>
+  {% include cta.html %}
+</article>
