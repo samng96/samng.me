@@ -18,8 +18,8 @@ title: Photography
       </header>
       <ul class="features">
         {% for photo in site.data.photos %}
-          {{ photo.path }}<br>
-          {{ photo }}<br>
+          name: {{ photo.name }}<br>
+          obj: {{ photo }}<br>
           test
         {% endfor %}
 
