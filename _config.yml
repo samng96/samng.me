@@ -20,7 +20,7 @@ permalink: pretty
 # Collections
 
 collections:
-  letters-to-my-son:
+  photos:
     output: true
 
 # Build settings
