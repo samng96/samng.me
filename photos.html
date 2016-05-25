@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Photography
-permalink: /photos/
 ---
 <article id="main">
     <header>
@@ -22,8 +21,6 @@ permalink: /photos/
           name: {{ photo[0] }}<br>
           title: {{ photo[1].title }}<br>
           some_tag: {{ photo[1].some_tag }}<br>
-          obj: {{ photo | jsonify }}<br>
-          test
         {% endfor %}
 
         <li class="icon fa-flag-o">
