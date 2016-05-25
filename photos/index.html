@@ -19,6 +19,8 @@ title: Photography
       <ul class="features">
         {% for photo in site.data.photos %}
           name: {{ photo.name }}<br>
+          title: {{ photo.title }}<br>
+          some_tag: {{ photo.some_tag }}<br>
           obj: {{ photo }}<br>
           test
         {% endfor %}
