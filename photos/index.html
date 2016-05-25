@@ -18,9 +18,9 @@ title: Photography
       </header>
       <ul class="features">
         {% for photo in site.data.photos %}
-          name: {{ photo.name }}<br>
-          title: {{ photo.title }}<br>
-          some_tag: {{ photo.some_tag }}<br>
+          name: {{ photo[0] }}<br>
+          title: {{ photo[1].title }}<br>
+          some_tag: {{ photo[1].some_tag }}<br>
           obj: {{ photo | jsonify }}<br>
           test
         {% endfor %}
