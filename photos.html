@@ -19,8 +19,10 @@ title: Photography
       <ul class="features">
         {% for photo in site.photos %}
         <li>
-          <h3>{{ photo.title }}</h3>
-          <p><img src="{{ photo.thumbnail }}"></p>
+          <center>
+            <h3>{{ photo.title }}</h3>
+            <p><a href="{{ photo.url }}"><img src="{{ photo.thumbnail }}"></a></p>
+          </center>
         </li>
         {% endfor %}
       </ul>
