@@ -21,7 +21,7 @@ title: Photography
           name: {{ photo.name }}<br>
           title: {{ photo.title }}<br>
           some_tag: {{ photo.some_tag }}<br>
-          obj: {{ photo }}<br>
+          obj: {{ photo | jsonify }}<br>
           test
         {% endfor %}
 
