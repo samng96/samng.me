@@ -18,16 +18,11 @@ title: Photography
       </header>
       <ul class="features">
         {% for photo in site.photos %}
-          name: {{ photo }}<br>
-          title: {{ photo.title }}<br>
-          some_tag: {{ photo.some_tag }}<br>
-          {{ photo | jsonify }}
-        {% endfor %}
-
-        <li class="icon fa-flag-o">
-          <h3>Tortor Ut</h3>
-          <p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
+        <li>
+          <h3>{{ photo.title }}</h3>
+          <p><img src="{{ photo.thumbnail }}"></p>
         </li>
+        {% endfor %}
       </ul>
     </div>
   </section>
