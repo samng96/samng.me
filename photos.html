@@ -17,7 +17,8 @@ title: Photography
         </center>
       </header>
       <ul class="features">
-        {% for photo in site.photos | sort: date | reverse %}
+        {% assign sortedPhotos = site.photos | sort: date | reverse %}
+        {% for photo in sortedPhotos %}
         <li>
           <center>
             <h3>{{ photo.title }}</h3>
