@@ -33,10 +33,9 @@
 		if(window.albumInfo && window.albumInfo.url) {
 			var $photosHolder = $('.albumPhotos');
 			
-			var trailerRegex = /\.[^.]+\.(?:png|jpg)/;
+			var trailerRegex = /(?:\.(?:thumb|med))?\.(?:png|jpg)/;
 			
 			var thumbRegex = /\.thumb\.(?:png|jpg)$/,
-				origRegex = /\.orig\.(?:png|jpg)$/,
 				boxImageRegex = /\.med\.(?:png|jpg)$/;
 				
 				
@@ -56,14 +55,11 @@
 						if(thumbRegex.test(imageUrl)) {
 							image.thumb = imageUrl;
 						}
-						else if(origRegex.test(imageUrl)) {
-							image.url = imageUrl;
-						}
 						else if(boxImageRegex.test(imageUrl)) {
 							image.box = imageUrl;
 						}
 						else {
-							delete images[imageKey];
+							image.url = imageUrl;
 						}
 					});
 					

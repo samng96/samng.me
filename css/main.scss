@@ -1084,6 +1084,10 @@ $baseurl: '{{ site.baseurl }}/images';
 		
 		a { 
 			display: block;
+			
+			&:hover {
+				text-decoration: none;
+			}
 		}
 	}
 }
