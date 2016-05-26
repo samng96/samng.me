@@ -1110,12 +1110,20 @@ $baseurl: '{{ site.baseurl }}/images';
 			display: inline-block;
 		}
 		
-		&:nth-child(even) {
-			background: rgba(0, 0, 0, 0.5);
+		@for $i from 1 through 12 {
+			$j: 0.035 * $i;
+
+			&:nth-child(#{$i}) {
+				background-color: rgba(0,0,0, $j);
+			}
 		}
 		
-		&:nth-child(odd) {
-			background: rgab(0, 0, 0, 0.35);
+		@for $i from 1 through 12 {
+			$j: (12 * 0.035) - (0.035 * $i);
+
+			&:nth-child(#{$i + 12}) {
+				background-color: rgba(0,0,0, $j);
+			}
 		}
 	}
 }
