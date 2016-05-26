@@ -1077,12 +1077,11 @@ $baseurl: '{{ site.baseurl }}/images';
 
 .albumPhotos {
 	.photoBox {
-		height: 180px;
+		height: 195px;
 		width: 180px;
 		display: inline-block;
 		text-align: center;
-		border-radius: 5px;
-		border: solid 2px rgba(255, 255, 255, 0.5);
+		vertical-align: bottom;
 		
 		a { 
 			display: block;
