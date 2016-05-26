@@ -1075,6 +1075,15 @@ $baseurl: '{{ site.baseurl }}/images';
   }
 }
 
+.albumPhotos {
+	.photoBox {
+		height: 180px;
+		width: 180px;
+		display: inline-block;
+		text-align: center;
+	}
+}
+
 .tagCloud {
   .tag {
     $baseSize: 12px;

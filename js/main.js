@@ -57,10 +57,13 @@
 							image.thumb = imageUrl;
 						}
 						else if(origRegex.test(imageUrl)) {
-							image.orig = imageUrl;
+							image.url = imageUrl;
 						}
 						else if(boxImageRegex.test(imageUrl)) {
 							image.box = imageUrl;
+						}
+						else {
+							delete images[imageKey];
 						}
 					});
 					
@@ -73,7 +76,14 @@
 									.attr('href', image.box)
 									.append($('<img />').attr('src', image.thumb));
 									
-							$photosHolder.append($image);
+									
+							var $download = $('<a class="icon fa-cloud-download fa-2x"></a>').attr('href', image.url);
+							
+							var $box = $('<div class="photoBox links" />')
+											.append($image)
+											.append($download);
+							
+							$photosHolder.append($box);
 						});
 				});
 		}
