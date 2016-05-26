@@ -73,7 +73,7 @@
 									.append($('<img />').attr('src', image.thumb));
 									
 									
-							var $download = $('<a class="icon fa-cloud-download fa-lg"></a>').attr('href', image.url);
+							var $download = $('<a class="icon fa-cloud-download"></a>').attr('href', image.url);
 							
 							var $box = $('<div class="photoBox links" />')
 											.append($image)
