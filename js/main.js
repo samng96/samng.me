@@ -68,7 +68,7 @@
 							
 							var image = images[key];
 							
-							var $image = $('<a data-lightbox="album" />')
+							var $image = $('<a class="thumb" data-lightbox="album" />')
 									.attr('href', image.box)
 									.append($('<img />').attr('src', image.thumb));
 									
@@ -76,6 +76,7 @@
 							var $download = $('<a class="icon fa-cloud-download"></a>').attr('href', image.url);
 							
 							var $box = $('<li class="photoBox links" />')
+											.append($('<span class="wtf" />'))
 											.append($image)
 											.append($download);
 							

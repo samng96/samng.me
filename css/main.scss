@@ -1077,12 +1077,13 @@ $baseurl: '{{ site.baseurl }}/images';
 
 .albumPhotos {
 	.photoBox {
-		height: 195px;
+		height: 190px;
 		width: 190px;
 		display: inline-block;
 		text-align: center;
 		vertical-align: bottom;
 		padding: 1em 15px;
+		position: relative;
 		
 		a { 
 			display: block;
@@ -1090,6 +1091,23 @@ $baseurl: '{{ site.baseurl }}/images';
 			&:hover {
 				border: none;
 			}
+			
+			&.icon {
+				position: absolute;
+				bottom: 5px;
+				right: 5px;
+			}
+			
+			&.thumb {
+				display: inline-block;
+				vertical-align: middle;
+			}
+		}
+		
+		.wtf {
+			vertical-align: middle;
+			height: 100%;
+			display: inline-block;
 		}
 		
 		&:nth-child(even) {
