@@ -1081,7 +1081,8 @@ $baseurl: '{{ site.baseurl }}/images';
 		width: 180px;
 		display: inline-block;
 		text-align: center;
-		vertical-align: bottom;
+		padding: 0px;
+		padding-left: 0px;
 		
 		a { 
 			display: block;
