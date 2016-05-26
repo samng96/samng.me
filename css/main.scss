@@ -1078,11 +1078,11 @@ $baseurl: '{{ site.baseurl }}/images';
 .albumPhotos {
 	.photoBox {
 		height: 195px;
-		width: 180px;
+		width: 190px;
 		display: inline-block;
 		text-align: center;
-		padding: 0px;
-		padding-left: 0px;
+		vertical-align: bottom;
+		padding: 1em 15px;
 		
 		a { 
 			display: block;
@@ -1090,6 +1090,14 @@ $baseurl: '{{ site.baseurl }}/images';
 			&:hover {
 				border: none;
 			}
+		}
+		
+		&:nth-child(even) {
+			background: rgba(0, 0, 0, 0.5);
+		}
+		
+		&:nth-child(odd) {
+			background: rgab(0, 0, 0, 0.35);
 		}
 	}
 }
