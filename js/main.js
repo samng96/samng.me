@@ -30,6 +30,54 @@
             return $(archiveNavNode).parent().siblings('div');
         }
 
+		if(window.albumInfo && window.albumInfo.url) {
+			var $photosHolder = $('.albumPhotos');
+			
+			var trailerRegex = /\.[^.]+\.(?:png|jpg)/;
+			
+			var thumbRegex = /\.thumb\.(?:png|jpg)$/,
+				origRegex = /\.orig\.(?:png|jpg)$/,
+				boxImageRegex = /\.med\.(?:png|jpg)$/;
+				
+				
+			
+			$.ajax(window.albumInfo.url+'?comp=list')
+				.done(function(blobsDocument) {
+					
+					var images = Object.create(null);
+					
+					$('Blob > Url', blobsDocument).each(function(idx, url) { 
+						var imageUrl = $(url).text();
+						
+						var imageKey = imageUrl.replace(trailerRegex, '');
+						
+						var image = images[imageKey] || (images[imageKey] = {});
+						
+						if(thumbRegex.test(imageUrl)) {
+							image.thumb = imageUrl;
+						}
+						else if(origRegex.test(imageUrl)) {
+							image.orig = imageUrl;
+						}
+						else if(boxImageRegex.test(imageUrl)) {
+							image.box = imageUrl;
+						}
+					});
+					
+					Object.keys(images)
+						.forEach(function(key) {
+							
+							var image = images[key];
+							
+							var $image = $('<a data-lightbox="album" />')
+									.attr('href', image.box)
+									.append($('<img />').attr('src', image.thumb));
+									
+							$photosHolder.append($image);
+						});
+				});
+		}
+
         $('.archive-nav')
 		.click(function(event) {
           if(selected !== null && selected !== this) {
