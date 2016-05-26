@@ -1081,6 +1081,10 @@ $baseurl: '{{ site.baseurl }}/images';
 		width: 180px;
 		display: inline-block;
 		text-align: center;
+		
+		a { 
+			display: block;
+		}
 	}
 }
 
