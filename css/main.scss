@@ -1081,12 +1081,14 @@ $baseurl: '{{ site.baseurl }}/images';
 		width: 180px;
 		display: inline-block;
 		text-align: center;
+		border-radius: 5px;
+		border: solid 2px rgba(255, 255, 255, 0.5);
 		
 		a { 
 			display: block;
 			
 			&:hover {
-				text-decoration: none;
+				border: none;
 			}
 		}
 	}
