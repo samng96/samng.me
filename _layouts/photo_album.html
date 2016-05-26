@@ -7,15 +7,17 @@ layout: default
     </header>
 
     <section id="three" class="wrapper">
-      <script>
-        var albumInfo = (function(){
-          return {
-            url: {{ page.azure_location | jsonify }}
-          };
-        })();
-      </script>
-      <div class="albumPhotos inner">
-      </div>
+      <ul class="features">
+        <script>
+          var albumInfo = (function(){
+            return {
+              url: {{ page.azure_location | jsonify }}
+            };
+          })();
+        </script>
+        <div class="albumPhotos inner">
+        </div>
+      </ul>
     </section>
   {% include cta.html %}
 </article>

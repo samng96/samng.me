@@ -75,7 +75,7 @@
 									
 							var $download = $('<a class="icon fa-cloud-download"></a>').attr('href', image.url);
 							
-							var $box = $('<div class="photoBox links" />')
+							var $box = $('<li class="photoBox links" />')
 											.append($image)
 											.append($download);
 							
