@@ -6,7 +6,7 @@ layout: default
       <h2>{{ page.title }}</h2>
     </header>
 
-    <section id="three" class="wrapper">
+    <section class="wrapper">
       <script>
         var albumInfo = (function(){
           return {
@@ -17,6 +17,8 @@ layout: default
       </script>
       <div class="inner">
         <div class="passwordPrompt" style="display:none;">
+          <h3>{{ page.title }} requires a password</h3>
+          <h5 class="passwordError" style="display:none;">Invalid password, try again</h5>
           <input type="password" id="albumPassword" />
           <button type="button" id="viewAlbum" class="button special" >View</button>
         </div>

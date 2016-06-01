@@ -53,7 +53,14 @@
 						$photosHolder.append($box);
 					});
 				})
-					
+			})
+			.fail(function() {
+				if(password !== null) {
+					$('.passwordPrompt').show()
+						.find('.passwordError')
+						.show()
+						.siblings('input').val('');
+				}
 			});
 		}
 
@@ -65,7 +72,13 @@
 					event.preventDefault();
 					event.stopPropagation();
 					$('.passwordPrompt').trigger('tryPassword');
-				}) 
+				});
+				
+				$('#albumPassword').keypress(function(evt){
+					if(evt.which === 13) {
+						$('.passwordPrompt').trigger('tryPassword');
+					}
+				});
 				
 				$('.passwordPrompt')
 					.bind('tryPassword', function(evt) { 
@@ -76,7 +89,7 @@
 					.show();
 			}
 			else {
-				loadPhotos('no-password');
+				loadPhotos(null);
 			}
 		}
 		
