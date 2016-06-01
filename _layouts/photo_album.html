@@ -10,12 +10,19 @@ layout: default
       <script>
         var albumInfo = (function(){
           return {
-            url: {{ page.azure_location | jsonify }}
+            baseUrl: {{ page.azure_location | jsonify }},
+            needsPassword: {{ page.needs_password | default: false }}
           };
         })();
       </script>
-      <ul class="albumPhotos inner">
-      </ul>
+      <div class="inner">
+        <div class="passwordPrompt" style="display:none;">
+          <input type="password" id="albumPassword" />
+          <button type="button" id="viewAlbum" class="button special" >View</button>
+        </div>
+        <ul class="albumPhotos">
+        </ul>
+      </div>
     </section>
   {% include cta.html %}
 </article>

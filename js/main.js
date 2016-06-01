@@ -26,64 +26,64 @@
 
         var selected = null;
 
+		function loadPhotos(password) {
+			var $photosHolder = $('.albumPhotos');
+				
+			var baseUrl = window.albumInfo.baseUrl;
+			
+			$.ajax(baseUrl + "?password=" + password)
+				.done(function(albumObject) {
+					$.ajax(baseUrl + '/photos?access=' + albumObject.access)
+						.done(function(photos) {
+							
+					photos.forEach(function(image){
+						var $image = $('<a class="thumb" data-lightbox="album" />')
+							.attr('href', baseUrl + '/photos/' + image.box + '?access=' + image.hash)
+							.append($('<img />').attr('src', baseUrl + '/photos/' + image.thumb + '?access=' + image.hash ));
+							
+							
+						var $download = $('<a class="icon fa-cloud-download"></a>')
+							.attr('href', baseUrl + '/photos/' + image.url + '?access=' + image.hash);
+						
+						var $box = $('<li class="photoBox links" />')
+							.append($('<span class="wtf" />'))
+							.append($image)
+							.append($download);
+							
+						$photosHolder.append($box);
+					});
+				})
+					
+			});
+		}
+
+		if(window.albumInfo && window.albumInfo.baseUrl) {
+			var albumInfo = window.albumInfo;
+			
+			if(albumInfo.needsPassword) {
+				$('#viewAlbum').click(function(event) {
+					event.preventDefault();
+					event.stopPropagation();
+					$('.passwordPrompt').trigger('tryPassword');
+				}) 
+				
+				$('.passwordPrompt')
+					.bind('tryPassword', function(evt) { 
+						$(this).hide();
+						var password = $('#albumPassword').val();
+						loadPhotos(password);
+					})
+					.show();
+			}
+			else {
+				loadPhotos('no-password');
+			}
+		}
+		
+
         function postsListsForNode(archiveNavNode) {
             return $(archiveNavNode).parent().siblings('div');
         }
-
-		if(window.albumInfo && window.albumInfo.url) {
-			var $photosHolder = $('.albumPhotos');
-			
-			var trailerRegex = /(?:\.(?:thumb|med))?\.(?:png|jpg)/;
-			
-			var thumbRegex = /\.thumb\.(?:png|jpg)$/,
-				boxImageRegex = /\.med\.(?:png|jpg)$/;
-				
-				
-			
-			$.ajax(window.albumInfo.url+'?comp=list')
-				.done(function(blobsDocument) {
-					
-					var images = Object.create(null);
-					
-					$('Blob > Url', blobsDocument).each(function(idx, url) { 
-						var imageUrl = $(url).text();
-						
-						var imageKey = imageUrl.replace(trailerRegex, '');
-						
-						var image = images[imageKey] || (images[imageKey] = {});
-						
-						if(thumbRegex.test(imageUrl)) {
-							image.thumb = imageUrl;
-						}
-						else if(boxImageRegex.test(imageUrl)) {
-							image.box = imageUrl;
-						}
-						else {
-							image.url = imageUrl;
-						}
-					});
-					
-					Object.keys(images)
-						.forEach(function(key) {
-							
-							var image = images[key];
-							
-							var $image = $('<a class="thumb" data-lightbox="album" />')
-									.attr('href', image.box)
-									.append($('<img />').attr('src', image.thumb));
-									
-									
-							var $download = $('<a class="icon fa-cloud-download"></a>').attr('href', image.url);
-							
-							var $box = $('<li class="photoBox links" />')
-											.append($('<span class="wtf" />'))
-											.append($image)
-											.append($download);
-							
-							$photosHolder.append($box);
-						});
-				});
-		}
 
         $('.archive-nav')
 		.click(function(event) {
