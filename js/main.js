@@ -58,6 +58,10 @@
 			
 			$.ajax(imageUrl([], "?password=" + password))
 				.done(function(albumObject) {
+					if(window.sessionStorage) {
+						window.sessionStorage.setItem(window.albumInfo.albumName, password);
+					}
+					
 					$.ajax(imageUrl(['photos'], '?access=' + albumObject.access))
 						.done(function(photos) {
 							photos.forEach(renderImage);
@@ -68,7 +72,7 @@
 						$passwords.show()
 							.siblings('input').val('');
 						
-						if(typeof(password) !== "undefined") {
+						if(password != null) {
 							$passwords.find('.passwordError').show()
 						}
 					}
@@ -99,7 +103,16 @@
 				loadPhotos(password);
 			});
 			
-			loadPhotos();
+			var startingPassword = null;
+			
+			if(window.sessionStorage) {
+				var sessionPassword = window.sessionStorage.getItem(albumInfo.albumName);
+				if(sessionPassword) {
+					startingPassword = sessionPassword;
+				}
+			}
+			
+			loadPhotos(startingPassword);
 		}
 
         function postsListsForNode(archiveNavNode) {
