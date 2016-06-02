@@ -10,8 +10,7 @@ layout: default
       <script>
         var albumInfo = (function(){
           return {
-            baseUrl: {{ page.azure_location | jsonify }},
-            needsPassword: {{ page.needs_password | default: false }}
+            baseUrl: {{ page.album_name | prepend: 'https://samng.azurewebsites.net/albums/' | jsonify }}
           };
         })();
       </script>
