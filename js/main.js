@@ -23,97 +23,76 @@
 			$banner = $('#banner'),
 			$header = $('#header');
 
-        var selected = null;
-		
-		var $passwords = $('.passwordPrompt');
-		
-		function imageUrl(urlParts, query) {
-			var baseUrl = window.albumInfo.baseUrl;
-			
-			urlParts.unshift(baseUrl)
 
-			return urlParts.join('/') + query;			
-		}
-		
-		var $photosHolder = $('.albumPhotos');
-		
-		function renderImage(image) {
-			
-			var $image = $('<a class="thumb" data-lightbox="album" />')
-				.attr('href', imageUrl(['photos', image.box], '?access=' + image.hash))
-				.append($('<img />').attr('src', imageUrl(['photos', image.thumb], '?access=' + image.hash)));
-				
-			var $download = $('<a class="icon fa-cloud-download"></a>')
-				.attr('href', imageUrl(['photos', image.url], '?access=' + image.hash));
-			
-			var $box = $('<li class="photoBox links" />')
-				.append($('<span class="wtf" />'))
-				.append($image)
-				.append($download);
-				
-			$photosHolder.append($box);
-		}
+        var selected = null;
 
 		function loadPhotos(password) {
+			var $photosHolder = $('.albumPhotos');
+				
+			var baseUrl = window.albumInfo.baseUrl;
 			
-			$.ajax(imageUrl([], "?password=" + password))
+			$.ajax(baseUrl + "?password=" + password)
 				.done(function(albumObject) {
-					if(window.sessionStorage) {
-						window.sessionStorage.setItem(window.albumInfo.albumName, password);
-					}
-					
-					$.ajax(imageUrl(['photos'], '?access=' + albumObject.access))
+					$.ajax(baseUrl + '/photos?access=' + albumObject.access)
 						.done(function(photos) {
-							photos.forEach(renderImage);
-						});
-				})
-				.fail(function(res) {
-					if(res.status == 401) {
-						$passwords.show()
-							.siblings('input').val('');
+							
+					photos.forEach(function(image){
+						var $image = $('<a class="thumb" data-lightbox="album" />')
+							.attr('href', baseUrl + '/photos/' + image.box + '?access=' + image.hash)
+							.append($('<img />').attr('src', baseUrl + '/photos/' + image.thumb + '?access=' + image.hash ));
+							
+							
+						var $download = $('<a class="icon fa-cloud-download"></a>')
+							.attr('href', baseUrl + '/photos/' + image.url + '?access=' + image.hash);
 						
-						if(password != null) {
-							$passwords.find('.passwordError').show()
-						}
-					}
-					else {
-						console.log("error loading photos", res);
-					}
-				});
+						var $box = $('<li class="photoBox links" />')
+							.append($('<span class="wtf" />'))
+							.append($image)
+							.append($download);
+							
+						$photosHolder.append($box);
+					});
+				})
+			})
+			.fail(function() {
+				if(password !== null) {
+					$('.passwordPrompt').show()
+						.find('.passwordError')
+						.show()
+						.siblings('input').val('');
+				}
+			});
 		}
-		
+
 		if(window.albumInfo && window.albumInfo.baseUrl) {
 			var albumInfo = window.albumInfo;
 			
-			$('#viewAlbum').click(function(event) {
-				event.preventDefault();
-				event.stopPropagation();
-				$passwords.trigger('tryPassword');
-			});
+			if(albumInfo.needsPassword) {
+				$('#viewAlbum').click(function(event) {
+					event.preventDefault();
+					event.stopPropagation();
+					$('.passwordPrompt').trigger('tryPassword');
+				});
 				
-			$('#albumPassword').keypress(function(evt){
-				if(evt.which === 13) {
-					$passwords.trigger('tryPassword');
-				}
-			});
+				$('#albumPassword').keypress(function(evt){
+					if(evt.which === 13) {
+						$('.passwordPrompt').trigger('tryPassword');
+					}
+				});
 				
-			$passwords.bind('tryPassword', function(evt) { 
-				$(this).hide();
-				var password = $('#albumPassword').val();
-				loadPhotos(password);
-			});
-			
-			var startingPassword = null;
-			
-			if(window.sessionStorage) {
-				var sessionPassword = window.sessionStorage.getItem(albumInfo.albumName);
-				if(sessionPassword) {
-					startingPassword = sessionPassword;
-				}
+				$('.passwordPrompt')
+					.bind('tryPassword', function(evt) { 
+						$(this).hide();
+						var password = $('#albumPassword').val();
+						loadPhotos(password);
+					})
+					.show();
 			}
-			
-			loadPhotos(startingPassword);
+			else {
+				loadPhotos(null);
+			}
 		}
+		
 
         function postsListsForNode(archiveNavNode) {
             return $(archiveNavNode).parent().siblings('div');
