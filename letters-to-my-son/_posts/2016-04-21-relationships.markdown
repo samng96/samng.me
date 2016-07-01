@@ -15,6 +15,7 @@ Throughout history, every single achievement that mankind has accomplished has b
 There has been much research about a person's development, growth, and ultimate success as a healthy, fully functioning member of society. While there are very drastically different theories on the most important experiences or surroundings that produce successful people, every theory agrees that relationships are critical to a person's upbringing.
 
 As the good book says:
+
 > "Bad company corrupts good character" - 1 Corinthians 15:33
 
 It is therefore critically important that you be thoughtful about the company that you keep, about the relationships that you *build*. Build being the operative word here.
