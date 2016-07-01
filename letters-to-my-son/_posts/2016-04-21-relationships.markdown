@@ -25,9 +25,9 @@ So how do we build the right relationships?
 
 While I am by no means an expert on the subject, I can share with you my thoughts and observations.
 
-1. Be mindful about the type of investment this is. Not all relationships are equal. Some are meant for your enrichment, some are meant for you to learn patience and endurance as you pour into someone else for their enrichment. Some are mutually beneficial. Know which is which.
-2. Own it. Be intentional about what you want out of each relationship. While it's very easy to have acquaintances and friends that are seemingly aimless, don't tolerate that. Be deliberate and thoughtful about each relationship you have.
-3. Prune it. Reclassify relationships as required, and prune the ones that no longer serve a purpose. Relationships themselves will naturally run their course, and while it is certainly easier in the immediate instance to allow them to do that without your intervention, in the long run, you'll find that being intentional here is going to be far better.
-4. Pour your life into it. For relationships that you've decided are worthwhile, go big. Don't take half-measures, but pour your all into it. Relationships are two-way streets - the more you pour into them, the more you'll get out of them.
+1. **Be mindful about the type of investment this is.** Not all relationships are equal. Some are meant for your enrichment, some are meant for you to learn patience and endurance as you pour into someone else for their enrichment. Some are mutually beneficial. Know which is which.
+2. **Own it.** Be intentional about what you want out of each relationship. While it's very easy to have acquaintances and friends that are seemingly aimless, don't tolerate that. Be deliberate and thoughtful about each relationship you have.
+3. **Prune it.** Reclassify relationships as required, and prune the ones that no longer serve a purpose. Relationships themselves will naturally run their course, and while it is certainly easier in the immediate instance to allow them to do that without your intervention, in the long run, you'll find that being intentional here is going to be far better.
+4. **Pour your life into it.** For relationships that you've decided are worthwhile, go big. Don't take half-measures, but pour your all into it. Relationships are two-way streets - the more you pour into them, the more you'll get out of them.
 
 My hope for you is that you will have a lifetime of rich experiences, and great relationships and companions to travel the road with you. Remember to go big, to dream without abandon, to give without expectation. And above all, *love with everything that you've got*.
