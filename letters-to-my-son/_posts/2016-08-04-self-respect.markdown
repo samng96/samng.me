@@ -1,5 +1,4 @@
 ---
-layout:
 title: "Self respect"
 date: 2016-08-04 12:39:40 -0800
 tags:

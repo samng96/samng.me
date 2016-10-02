@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: hide
 title: "Living in the moment"
 date: 2016-07-19 12:39:40 -0800
 tags:
