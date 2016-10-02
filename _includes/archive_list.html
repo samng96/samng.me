@@ -8,7 +8,7 @@
     {% assign firstLoop = true %}
 
     {% for post in site.posts %}
-    {% if post.categories contains 'letters-to-my-son' %}
+    {% if post.categories contains 'letters-to-my-son' and post.title != ''%}
       {% assign postYear = post.date | date: "%Y" %}
       {% if postYear != currentYear %}
         {% if firstLoop == false %}
