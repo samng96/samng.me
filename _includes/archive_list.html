@@ -9,7 +9,7 @@
 
     {% for post in site.posts %}
       {% assign postYear = post.date | date: "%Y" %}
-      {% if postYear != currentYear %}
+      {% if postYear != currentYear and post.categories contains 'letters-to-my-son'%}
         {% if firstLoop == false %}
           <div id="archive{{currentYear}}" class="smallerLinks">
             <div id="archive-nav{{ currentYear }}"><a class="archive-nav" href="#archive-nav{{ currentYear }}">X</a> <a href="/archive/{{ currentYear }}">{{ currentYear }}</a> ({{post_count}})</div>
