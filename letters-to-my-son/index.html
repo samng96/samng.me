@@ -15,7 +15,7 @@ build-tricks: this really should have worked
 
   {% assign count = 0 %}
   {% for post in site.posts %}
-    {% if count < 5 and post.categories contains 'letters-to-my-son' %}
+    {% if count < 5 and post.categories contains 'letters-to-my-son' and post.title != ''%}
 
       <h2><div class="links"><a href="{{ post.url }}">{{ post.title }}</a></div></h2>
       <p>{{ post.content }}</p>
