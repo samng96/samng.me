@@ -1,7 +1,7 @@
 ---
 layout: letter
 title: "What does life want from me?"
-date: 2016-07-19 12:39:40 -0800
+date: 2016-09-01 12:39:40 -0800
 tags:
 - Character
 - Epic
@@ -9,13 +9,11 @@ tags:
 - Intentional
 - Purposeful Living
 ---
-
-
 My son,
 
 The last twenty years has seen a trend of people who are raised to believe in self, in the individual human spirit. While I'm not against the belief that intrinsically each person has value and that God created each one of us uniquely and wonderfully, I do think that we could take a lesson from one of the greats in history. 
 
-MacArthur said once that we ought to **"ask not what your country can do for you - rather, ask what you can do for your country"**.
+JFK said once that we ought to **"ask not what your country can do for you - ask what you can do for your country"**.
 
 The sentiment here is that there's something greater than ourselves that we ought to consider, and that there's something to be gained, some purpose fulfilled, some satisfaction in pursuing a goal that may not have originated with us. 
 
