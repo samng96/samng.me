@@ -1,13 +1,14 @@
 ---
 layout: letter
-title: "What does life want from me"
+title: "Self-respect"
 date: 2016-08-04 12:39:40 -0800
 tags:
-- Epic
+- Confidence
+- Perspective
 - Character
 - Purposeful Living
-- Fulfillment
-- Intentional
+- Relationship
+- Time
 ---
 My son,
 
