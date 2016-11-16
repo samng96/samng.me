@@ -1,37 +1,52 @@
 ---
 layout: letter
-title: ""
+title: "Taking responsibility"
 date: 2016-08-04 12:39:40 -0800
 tags:
 - Balance
-- Intentional
 - Character
+- Confidence
+- Humility
+- Integrity
 - Purposeful Living
-- Tomorrow
-- Time
+- Responsibility
 ---
-
-
-- You aren't a failure until you start to blame - John wooden
-
 My son,
 
-There's a natural tension in life between today and tomorrow. As you know, *time is the* only *resource in life that we will never get back*, and so we naturally want to maximize that. This creates the dilemma of whether we should invest in tomorrow or if we should spend on today.
 
-As much as I would love to give you a hard and fast rule for which choice to make, the reality is that the *richest* lives are lived somewhere in the middle - investing enough in tomorrow while still spending time today to *live* your life.
+One of the toughest things that a man must do is to admit when they're wrong. We are wired for victory, for success - from an early age, we're taught that it is praiseworthy to succeed and to be victorious. Hopefully by the time you read this, your mother and I will have instilled in you our philosophy that learning, making progress, and improving yourself are more important than winning.
 
-So then what are we talking about today?
+Life is about more than just the destination. The journey is equally - and sometimes even moreso - important. 
 
-*Balance*.
+And so today we're going to talk about something that every great man knows is the right thing, but many find difficult to do. Taking responsibility for your own actions, especially when things go wrong.
 
-A rich and full life is one that balances our investments in the future - school, learning, reading, developing skills and interests - with our enjoyment of today - shooting the breeze with friends, sitting on the deck and enjoying the sunset, standing in awe of the most beautiful sight you've ever seen.
+It's a story as old as storytelling itself - the first sons of the world struggled with this very concept. In Genesis 4, we're told the story of Cain and Abel, sons of Adam and Eve. Because of his jealousy and his own inadequacies before God, Cain takes Abel's life out of anger and frustration. That of itself is already quite bad, but when God calls him on it, what is Cain's response?
 
-Asian culture tells us to invest in tomorrow. We're taught to save our money and to invest it. We're constantly reminded to work hard *today* so that we can be successful *tomorrow*. We're reminded to think about the big picture, about the life that we want to have *later*, about our next job, our future wife and family, our retirement plans.
+> "Am I my brother's keeper?" - Genesis 4:9
 
-And yet there's no emphasis on *today*.
+I won't mention that this was already a family trait, as dad had already pulled the same stunt with God, blaming Eve for his eating the apple before the two of them got themselves kicked out of paradise. Oh and so did mom - she passed the blame onto the serpent. 
 
-In that sense, *tomorrow is something that is always coming but never comes*.
+Great start humanity has eh? 
 
-And that's my challenge for you today. While investing in the future, make sure you take the time to smell the roses. *Make time* to do it. And do it *big*. Whether this means turning on your noise-cancelling headphones and cranking up your favorite epic song, sitting outside with a glass of wine and watching the sun set over the horizon, or taking a walk down a familiar street with the love of your life.
+Fast forward a bit, and we'll see that even God's favorite son struggles with this one. Thankfully for mankind, when the prophet Nathan confronts him, David does in fact repent and fesses up and repents for his actions, but even he needed a kick in the pants to get on the right page.
 
-Those are the moments - those perfect, timeless moments - that give you strength to keep pushing forward. Those moments you'll remember for a lifetime, and will ultimately confirm for yourself that you're exactly where you're supposed to be.
+So what does this mean for us?
+
+I believe there are a few reasons why taking responsibility for your own actions is not just something that we *ought* to do, but is something that actually gives us *strength* and adds to our effectiveness. Here's why.
+
+<ul>
+<li> <b>Integrity</b><br>
+Absolutely the most importat. Having integrity is what makes a man. I don't care what anyone else says. Integrity is in my books one of the most (if not *the* most) important traits a man can have and must guard. It is the quality that brings out the best in you and in those around you because it's the quality that says no matter what the circumstance, no matter who's watching, no matter what the arguments are opposed, I *will* do the right thing. <p />
+
+</li>
+<li> <b>Earnest connection</b><br>
+By taking responsibility for our actions and admitting when we're wrong, we move ourselves from the adversarial position to an earnest and open one. As a populice, we resonate with leaders that let their guard down and share an apology, a fault, a heart-felt admittance of failure. <p />
+
+By displaying vulnerability, we remind people that we're all flawed and broken, striving to be better, reaching for that beau ideal of human excellence.<p />
+</li>
+<li> <b>Humility</b><br>
+Taking responsibility also keeps us honest and keeps us humble. It keeps us in a posture of humility where we're able to hear truth being spoken into our lives. It lets us recognize that we need to grow, and lets us see the path ahead.<p />
+</li></ul>
+I love the quote by legendary football coach John Wooden about the topic. He says that *"you aren't a failure until you start to blame"*. How true that is!
+
+And so my son, my challenge to you this time is to continue striving for greatness, continue growing and learning and trying new things, and to continue putting yourself out there and going out on a limb for things. As you do that, you're bound to have set backs, and when you do, my prayer is that you're able to own up to those too. Claim your losses just as you claim your victories; they both are great opportunities for growth and for deeper connection. And those are great things.
