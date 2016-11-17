@@ -1,7 +1,7 @@
 ---
 layout: letter
 title: "Taking responsibility"
-date: 2016-08-04 12:39:40 -0800
+date: 2016-10-01 12:39:40 -0800
 tags:
 - Balance
 - Character
@@ -12,7 +12,6 @@ tags:
 - Responsibility
 ---
 My son,
-
 
 One of the toughest things that a man must do is to admit when they're wrong. We are wired for victory, for success - from an early age, we're taught that it is praiseworthy to succeed and to be victorious. Hopefully by the time you read this, your mother and I will have instilled in you our philosophy that learning, making progress, and improving yourself are more important than winning.
 
