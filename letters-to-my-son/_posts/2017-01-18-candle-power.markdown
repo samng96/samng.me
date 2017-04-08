@@ -17,7 +17,7 @@ As I grew older, my fascination with candles changed. While I still loved that w
 
 > The noble human spirit shares this beautiful quality; it is a peaceful glow that flames up fiercely under adversity, fighting to stay lit and illuminating all those around it in the process.
 
-Jesus said that <i>"in this life, you will have trouble. But take heart! I have overcome the world!" - Matthew 16:33</i>
+Jesus said that <i>"in this life, you will have trouble. But take heart! I have overcome the world!" - John 16:33</i>
 
 In this life, we are assured trouble, trials, difficulties, struggles. That's a fact, guaranteed. The true measure of a man is how we handle these trials. When the wind comes, do we carefully nurture that candle so that it gets just enough wind to let it fiercely light up our spirit? Or do we turn that candle straight into the wind, letting it blow out completely?
 
