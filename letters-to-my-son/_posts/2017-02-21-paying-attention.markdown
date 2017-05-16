@@ -25,5 +25,7 @@ It is the art of knowing what pieces of input to process and come back to, and w
 
 The truth is that society doesn't want you to do that. It wants to raise a geeration of people that are easily influenced by the latest greatest marketing trends that are out there. Capitalism is selfish by nature, and so it will do everything in its power to numb your senses and have you follow the path that profits it the most.
 
+> If you don't have a plan for yourself, someone else will and you'll fall into that.
+
 My challenge to you today is to make sure you're paying enough attention to be able to intentionally choose which path you take. Because even if there are many paths to your destination, time is the resource that you'll never get back. So make the most of your time and pay attention to what you're doing, where you're going, and who you're going there with!
 
