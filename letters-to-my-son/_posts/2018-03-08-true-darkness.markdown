@@ -31,6 +31,7 @@ After reuniting with his wife, the two walked along the beach commiserating thei
 > It is well<br/>
 > With my soul<br/>
 > It is well, it is well with my soul<br/>
+
 *~ Horatio Spafford*
 
 My prayer for you both is this; that when life throws you curve balls and you find yourself lost and without hope, that you may cling to the belief that things will get better, whether you can see the light at the time or not. I love you, my boys.
