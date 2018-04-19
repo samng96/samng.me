@@ -25,6 +25,7 @@ Horatio lived in Chicago in the 1800s and was a successful lawyer, with much of 
 After reuniting with his wife, the two walked along the beach commiserating their loss. It was there that he penned these beautiful words.
 
 > When peace like a river attendeth my way
+>
 > When sorrows like sea billows roll
 > Whatever my lot thou hast taught me to say
 > It is well, it is well with my soul
