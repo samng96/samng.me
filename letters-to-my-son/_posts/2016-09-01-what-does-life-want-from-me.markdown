@@ -23,7 +23,7 @@ If we consider the things that resonate most with the human spirit, the things t
 
 Discovering that which we were created for, that which we are destined for - that is something that takes a lifetime to learn and to refine. As Nietzsche put it, <i>"He who has a why to live for can bear almost any how"</i>. 
 
-The vital question then becomes this: *What does life want from me?*. 
+The vital question then becomes this: *What does life want from me?*
 
 In other words, what is the larger, grander venture that I *ought* to be a part of?
 
