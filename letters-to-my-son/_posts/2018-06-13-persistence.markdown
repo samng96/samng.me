@@ -28,7 +28,7 @@ While character traits like courage and boldness are needed on the mountaintops,
 
 There are a number of reasons why we ought to have this change in perspective:
 
-1. By removing our hyper focus on the top of the mountain and allowing ourselves to pan out and see the surrounding landscape, we’ll see many things that we weren’t able to notice before. We'll notice things that may not have seemed important, that may be smaller in comparison start to become clearer, and we’re able to derive joy from them.
+1. By removing our hyper focus on the top of the mountain and allowing ourselves to pan out and see the surrounding landscape, we’ll see many things that we weren’t able to notice before. Things that may not have seemed important, or may be smaller in comparison. Things that didn’t stand out, or weren’t clearly in focus. We’ll be able to see these things, and we’re able to derive joy from them.
 2. We’re able to *see* people. Often our hyper focus on the goal causes us forget that there are people around us that are affected by our actions, and that need our attention, support, and care. Shifting our focus allows us to see these people more clearly.
 3. We’re able to sustain our pace. Life is not a sprint; it is a marathon. By learning to persevere and persist in times when your adrenaline isn’t rushing and flooding your system, we’re able to pace ourselves and sustain. The long game doesn’t only require the ability to run fast; it requires the discipline to know when to push hard and when to relax and recover. It calls for balance and for wellness. It demands rest. 
 
