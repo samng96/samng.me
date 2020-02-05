@@ -13,7 +13,7 @@
       {% if postYear != currentYear %}
         {% if firstLoop == false %}
           <div id="archive{{currentYear}}" class="smallerLinks">
-            <div id="archive-nav{{ currentYear }}"><a class="archive-nav" href="#archive-nav{{ currentYear }}">X</a> <a href="/archive/{{ currentYear }}">{{ currentYear }}</a> ({{post_count}})</div>
+            <div id="archive-nav{{ currentYear }}"><a href="/archive/{{ currentYear }}">{{ currentYear }}</a> <a class="archive-nav" href="#archive-nav{{ currentYear }}">...</a> ({{post_count}})</div>
             <div class="alt" style="display: none">
               {{ post_list }}
             </div>
@@ -37,7 +37,7 @@
     {% endif %}
     {% endfor %}
     <div id="archive{{currentYear}}" class="smallerLinks">
-      <div id="archive-nav{{ currentYear }}"><a class="archive-nav" href="#archive-nav{{ currentYear }}">X</a> <a href="/archive/{{ currentYear }}">{{ currentYear }}</a> ({{post_count}})</div>
+      <div id="archive-nav{{ currentYear }}"><a href="/archive/{{ currentYear }}">{{ currentYear }}</a> <a class="archive-nav" href="#archive-nav{{ currentYear }}">...</a> ({{post_count}})</div>
       <div class="alt" style="display: none">
         {{ post_list }}
       </div>
