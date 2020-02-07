@@ -27,8 +27,7 @@ There's a song that I love from a movie I watched recently that's entitled *"The
 > But a tiny voice whispers in my mind<br>
 > "You are lost, hope is gone<br>
 > But you must go on<br>
-> And do the next right thing"
-
+> And do the next right thing"<br><br>
 > Break it down to this next breath, this next step<br>
 > This next choice is one that I can make<br>
 > So I'll walk through this night<br>
