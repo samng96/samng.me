@@ -23,16 +23,16 @@ How do you do it? How do you choose to do the hard thing, to do the *unnatural* 
 
 There's a song that I love from a movie I watched recently that's entitled *"The next right thing"*. I love so many things about that song, musically, dramatically. But most of all, I love the message the song conveys.
 
-> This grief has a gravity, it pulls me down
-> But a tiny voice whispers in my mind
-> "You are lost, hope is gone
-> But you must go on
+> This grief has a gravity, it pulls me down<br>
+> But a tiny voice whispers in my mind<br>
+> "You are lost, hope is gone<br>
+> But you must go on<br>
 > And do the next right thing"
 
-> Break it down to this next breath, this next step
-> This next choice is one that I can make
-> So I'll walk through this night
-> Stumbling blindly toward the light
+> Break it down to this next breath, this next step<br>
+> This next choice is one that I can make<br>
+> So I'll walk through this night<br>
+> Stumbling blindly toward the light<br>
 > And do the next right thing
 
 There will be times when you feel like you're flattened, that you're on the floor. You'll feel like the world is against you, and you'll want to give up. I hope that in that moment, for just a moment, you'll be able to take a breath and get even the briefest hint of perspective that will allow you to choose to do the next right thing.
