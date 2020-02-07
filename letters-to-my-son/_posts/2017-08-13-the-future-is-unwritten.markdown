@@ -16,7 +16,7 @@ One of the greatest founding principles and beliefs of many of our modern nation
 
 That very freedom is the foundation by which we are able to move life forward, are able to be a change agent, are able to thoughtfully and intentionally shape our world the way we dream of. To quote from Whitman:
 
-> You are here - that life exists and identity,
+> You are here - that life exists and identity,<br>
 > That the powerful play goes on, and you may contribute a verse.
 
 You may contribute a verse. You may *author* a verse. You have the power to impact that powerful play, and you can be a force that can *change the world*.
