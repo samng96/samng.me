@@ -1,7 +1,7 @@
 ---
 layout: letter
 title: "Choose Love"
-date: 2019-09-19 19:49:40 -0800
+date: 2017-09-19 19:49:40 -0800
 tags:
 - Character
 - Love
