@@ -21,7 +21,7 @@ I love that. *They make ya feel something*.
 
 So much of our lives are about things that don't touch on the topic of feelings. We're inundated with information, obsessed with learning and progressing, and laser focused on academics and achievement. But we've got to remember to *feel*. As Robin Williams puts it in [Dead Poets Society](https://www.imdb.com/title/tt0097165/):
 
-> We don't read and write poetry because it's cute. We read and write poetry because we are members of the human race. And the human race is filled with passion.<br>
+> We don't read and write poetry because it's cute. We read and write poetry because we are members of the human race. And the human race is filled with passion.<br><br>
 > Medicine, law, business, engineering, these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love, these are what we stay alive for.
 
 Perfect. In the book, the author says of the father:
