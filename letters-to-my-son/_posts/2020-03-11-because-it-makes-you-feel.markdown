@@ -11,7 +11,7 @@ tags:
 ---
 My sons,
 
-I've been reading a book that a great friend recommended to me called [Where the crawdads sing](https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095/ref=sr_1_2?crid=3PGXK0DFMJERZ&keywords=where+the+crawdads+sing&qid=1583994330&sprefix=where+the+craw%2Caps%2C216&sr=8-2), by Delia Owens. So far, it's an artfully written book full of beautiful and vivid images the author paints for your mind's eye combined with insightful nuggets of truth for you to ponder. Perfectly up my alley.
+I've been reading a book that a great friend recommended to me called ["Where the crawdads sing"](https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095/ref=sr_1_2?crid=3PGXK0DFMJERZ&keywords=where+the+crawdads+sing&qid=1583994330&sprefix=where+the+craw%2Caps%2C216&sr=8-2), by Delia Owens. So far, it's an artfully written book full of beautiful and vivid images the author paints for your mind's eye combined with insightful nuggets of truth for you to ponder. Perfectly up my alley.
 
 There's a beautiful dialog in the book between father and son where the son complains to his father that he's studying poetry in English class and doesn't like it. The father's retort is beautiful:
 
