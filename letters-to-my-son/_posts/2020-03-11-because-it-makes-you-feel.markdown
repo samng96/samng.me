@@ -15,7 +15,7 @@ I've been reading a book that a great friend recommended to me called [Where the
 
 There's a beautiful dialog in the book between father and son where the son complains to his father that he's studying poetry in English class and doesn't like it. The father's retort is beautiful:
 
-> Don't go thinking poetry's just for sisies. There's mushy love poems, for sure, but there's also funny ones, lots about nature, war even. Whole point of it - *they make ya feel something*
+> Don't go thinking poetry's just for sissies. There's mushy love poems, for sure, but there's also funny ones, lots about nature, war even. Whole point of it - *they make ya feel something*
 
 I love that. *They make ya feel something*.
 
