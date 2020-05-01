@@ -1,7 +1,7 @@
 ---
 layout: letter
 title: "Mental Fortitude"
-date: 2020-04-30 21:24:40 -0800
+date: 2020-04-30 01:24:40 -0800
 tags:
 - Character
 - Discipline
