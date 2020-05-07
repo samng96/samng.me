@@ -30,7 +30,7 @@ I certainly don't profess to know the secrets of mental fortitude, nor do I know
 I've discovered a few key things that have done wonders for me:
 
 1. Read. Reading not only develops our creativity, but it challenges our mind to imagine, to ponder, to *think deeply* about topics and situations that we may not have had the chance to face yet. It allows us to develop the ability to empathize with a character, to reason with an author, to dream wondrously with the protagonist, and to suffer deeply with the fallen hero.<br><br>
- Reading also gives us the opportunity to build relationships, dialog, and discuss with friends new and old the topics and virtues of the latest book that we've read. Read for enjoyment, read for self-development and self-improvement, read for knowledge, and read for perspective. Read fiction to dream and paint canvases in your mind. Read non-fiction to be challenged, to think critically, to ruminate, to reason.
+ Reading also gives us the opportunity to build relationships, to dialog, and to discuss with friends new and old the topics and virtues of the latest book that we've read. Read for enjoyment, read for self-development and self-improvement, read for knowledge, and read for perspective. Read fiction to dream and paint canvases in your mind. Read non-fiction to be challenged, to think critically, to ruminate, to reason.
 
 2. Meditate. Meditation builds focus of mind, and trains our discipline. It allows us to process our thoughts, to understand ourselves, and to listen to our innermost mind.
 
