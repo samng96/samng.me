@@ -1,7 +1,7 @@
 ---
 layout: letter
 title: "Unfair vs Unfortunate"
-date: 2020-05-22 21:24:40 -0800
+date: 2020-05-22 8:24:40 -0800
 tags:
 - Character
 - Mind
