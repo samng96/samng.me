@@ -17,9 +17,9 @@ Just about everything you can think of that is outside your body can be exported
 
 That leaves our minds, our opinions, our beliefs, and our convictions as the last bastion of our unique selves.
 
-There's a scene from one of my favorite movies, ["The Shawshank Redemption"](https://www.imdb.com/title/tt0111161/) where the incarcerated main character Andy Dufresne, played by the marvelous ["Tim Robbins"](https://www.imdb.com/name/nm0000209/) risks his life boldly stepping up to one of the prison guards to offer his services as an accountant. After dangling Dufresne's body over the edge of the roof where they were standing, the guard relents and accepts Andy's help. In exchange, Andy asks simply for two buckets of beers for his fellow prisoners currently working roof detail.
+There's a scene from one of my favorite movies, [The Shawshank Redemption](https://www.imdb.com/title/tt0111161/) where the incarcerated main character Andy Dufresne, played by the marvelous [Tim Robbins](https://www.imdb.com/name/nm0000209/) risks his life boldly stepping up to one of the prison guards to offer his services as an accountant. After dangling Dufresne's body over the edge of the roof where they were standing, the guard relents and accepts Andy's help. In exchange, Andy asks simply for two buckets of beers for his fellow prisoners currently working roof detail.
 
-His prison mate Ellis Redding, played by the legendary ["Morgan Freeman"](https://www.imdb.com/name/nm0000151/) narrates, speculating that the reason Andy pulled off such a stunt was simply so that he could feel human again. That sitting up on the roof in the hot sun with a bucket of beers allowed him and his fellows to remember what it meant to be free men; and that was a beautiful thing.
+His prison mate Ellis Redding, played by the legendary [Morgan Freeman](https://www.imdb.com/name/nm0000151/) narrates, speculating that the reason Andy pulled off such a stunt was simply so that he could feel human again. That sitting up on the roof in the hot sun with a bucket of beers allowed him and his fellows to remember what it meant to be free men; and that was a beautiful thing.
 
 Our beliefs, our convictions, our values - these are things that can never be taken from us.
 
