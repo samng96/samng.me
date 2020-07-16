@@ -23,7 +23,7 @@ We are currently in a time where many have lost. Loved ones, homes, jobs, famili
 
 To be fair, there are many that are rising to the occasion. The heroes of today don't don spandex and nylon capes, no. They put on their nurse's scrubs, their surgeon's gloves, their firefighter suits, their signs of protest and defense. God bless those heroes.
 
-But beyond supporting them, beyond giving our time and resources to listen, to learn, to stand up for, and to protect, we can do more still. We can live each day honoring the things that we have, so that we honor those who have not. We can live each day taking every opportunity that fortune blesses us with, and do so remembering those who are less fortunate.
+But beyond supporting them, beyond giving our resources and time to listen, to learn, to stand up for, and to protect, we can do more still. We can live each day honoring the things that we have, so that we honor those who have not. We can live each day taking every opportunity that fortune blesses us with, and do so remembering those who are less fortunate.
 
 We are fortunate to live in America, to live in a nation founded on the belief that all people were created equal, to live free of oppression and free to pursue happiness and association however we desire. Many are not that lucky. Many living even in this nation are not that lucky.
 
