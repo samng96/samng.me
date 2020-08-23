@@ -15,7 +15,7 @@ It's easy to look at the world around us and see its many flaws and many weaknes
 
 And no one would fault you for that.
 
-We live in a world where people are *expected* to cower, to keep their voices down, to do the bare minimum to appease their own consciences, often with little to no impact.
+We live in a world where people are *expected* to cower, to keep their voices down, and to do the bare minimum to appease their own consciences, often with little to no impact.
 
 I implore you to choose a different path.
 
