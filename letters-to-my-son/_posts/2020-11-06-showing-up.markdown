@@ -23,15 +23,15 @@ Something I've been learning lately is that so much of the battle is just showin
 
 Here's why.
 
-### 1. We create a positive, forward moving mental state
+#### 1. We create a positive, forward moving mental state
 So much of success in the arena is simply about moving forward. When we are still, the battle is lost. But when we are in motion, when we are fluid, when we are gaining momentum and focused on a goal, *that* is a beautiful thing. That motion, that movement, that momentum and inertia moves our lives forward and gives us courage to take on even bigger things.
 
 Simply showing up is a victory unto itself, and however small that may be is enough to spark us into action.
 
-### 2. We encourage others
+#### 2. We encourage others
 The human spirit is strengthened by witnessing acts of bravery, of honor, of noble intent. When someone sees us getting off the sidelines and showing up in the arena, something deep inside them sparks. Regardless of whether that spark itself is enough to light a fire in them, us showing up and bringing encouragement to another is itself a powerful thing.
 
-### 3. We show the enemy we're not afraid
+#### 3. We show the enemy we're not afraid
 So much of the world is shrouded in fear, in misdirection, in misinformation that leads to inaction. By showing up, we show the enemy that we're not afraid, that we're willing to stand shoulder to shoulder in the arena and take on what's coming.
 
 So my sons, my prayer for you is that you too would show up. That you would *move life forward*, that you would encourage others and find others of like mind to fight together with, and that together we can stand up against the injustices and the abominations of the world. For together we stand; divided we fall. I love you boys.
