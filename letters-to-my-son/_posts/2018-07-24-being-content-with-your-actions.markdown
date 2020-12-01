@@ -6,7 +6,7 @@ tags:
 - Character
 - Intentional
 - Purposeful Living
-- Contentfulness
+- Content
 ---
 My sons,
 
