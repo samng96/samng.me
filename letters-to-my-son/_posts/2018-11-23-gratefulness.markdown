@@ -19,15 +19,15 @@ Gratefulness plays a huge role in that.
 
 If you look a little closer, I’m willing to bet that a common thread among those that are happy is that they’re also very grateful people. A couple of reasons for that.
 
-####Gratefulness causes you to think outside yourself.
+#### Gratefulness causes you to think outside yourself.
 A heart of gratitude causes you to be regularly thinking about the things that you’re thankful for, and keeps your mind off of yourself and on others. It keeps you being thoughtful about the external; about how others are feeling, about their actions and intentions.
 
 By thinking about others, the altitude of your view gets higher. You get used to thinking about spheres outside your own. *Your world becomes bigger*.
 
-####Gratefulness causes you reflect on the beauty in your life.
+#### Gratefulness causes you reflect on the beauty in your life.
 When we stop to acknowledge the good that others have done in our lives, we stop moving, if only for a moment. This world that we’re living in is incredibly fast paced and is constantly trying to drown out any silence that gives you room to reflect. But taking the time to reflect on the many things we have to be thankful for, the many things that are beautiful, rich, and wonderful about our lives *regularly*; that truly is a great thing.
 
-####Gratefulness gives you the space to make mistakes.
+#### Gratefulness gives you the space to make mistakes.
 When you approach your life with a heart of gratitude, it creates the space for the imperfections of humanity to breathe, to air out, to be released. So often we’re concerned about looking perfect, sounding perfect, appearing like we’ve got perfect lives on social media. We don’t give ourselves the space for the truth that is humanity - we’re not perfect. We’re not idyllic. We have flaws.
 
 Gratefulness allows us to recognize that others can contribute to our lives, and in so doing allow us the space to recognize that we need others and aren’t perfect.
