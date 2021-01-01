@@ -14,7 +14,7 @@ My sons,
 Something I've always valued is retrospection and introspection. Looking back at our experiences to learn from them, and looking within to thoughtfully consider the choices, decisions, and actions we've taken are two very good habits to build. As with any habit, it's best to start building them early and when one doesn't *need* them yet. Taking a page from Robert Redford in Spy Game:
 
 > "When did Noah build the ark, Gladys?"<br>
-> "<pause>"<br>
+> "..."<br>
 > "Before the rain."
 
 Looking back on this year, it has definitely been one for the history books with all the unexpected twists and turns. It's been a trying year for most, full of challenges, upset routines, and new and very real fears. It's brought folks face to face with many insecurities: meaning, purpose, relationship, isolation. It has caused many to look forward, to desire a different future, and to even take action towards making that different future happen.
