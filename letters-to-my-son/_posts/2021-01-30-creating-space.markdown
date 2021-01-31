@@ -14,7 +14,7 @@ My sons,
 You've both often heard me talk about having discipline, being efficient, and living intentionally. Without a doubt those are great things to work towards and to cultivate in your lives. Yet as with most things in this world, there is a balance that when struck correctly brings out an undeniable beauty. That balance is the skillful art of creating space, and knowing when and how to do so.
 
 #### Space
-It is said that the finest art is that which speaks most loudly to you. As the observer, yours is the only opinion that matters. Regardless of the artist, the medium, the subject matter, the artist's intention as they created the piece, or even the opinions of the critics, the finest art is that which speaks most profoundly to you alone as the one experiencing that art.
+The finest art is that which speaks most loudly to you. As the observer, yours is the only opinion that matters. Regardless of the artist, the medium, the subject matter, the artist's intention as they created the piece, or even the opinions of the critics, the finest art is that which speaks most profoundly to you alone as the one experiencing that art.
 
 Truly great art leaves space for the observer to explore, discover, and to savor.
 
