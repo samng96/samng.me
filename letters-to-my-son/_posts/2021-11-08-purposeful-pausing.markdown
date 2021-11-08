@@ -20,7 +20,7 @@ One of my great mentors said that often we are so caught up in the next big thin
 
 As we've discussed in the past, the things that matter, the things that last, the things that we'll remember and want to be known for as we reach the sunset of life - those things tend to be relational. Whether it is directly impacting someone personally or changing the lives of millions through the things we build, we are a relational and social species.
 
-Constantly rushing from one event to the next, we are in danger of reducing life to a string of accomplishments in which the passing of time is marked only by check marks on todo lists. We remove the connection, the deep reflection, and the space to be in awe and wonder at the world around us. I've found that in my life many of the most rewarding interactions and the deepest connections have been unplanned, unintentional, not orchstrated.
+Constantly rushing from one event to the next, we are in danger of reducing life to a string of accomplishments in which the passing of time is marked only by check marks on todo lists. We remove the connection, the deep reflection, and the space to be in awe and wonder at the world around us. I've found that in my life many of the most rewarding interactions and the deepest connections have been unplanned, unintentional, not orchestrated.
 
 Have you ever sat down with someone and said, *"let's have a deep and meaningful conversation"* and had that actually work? Okay, in all honesty l've never tried that, but I can't for the life of me imagine that would work. Most of my most meaningful and impactful conversations have happened when I least expected them. Connection needs time, and needs the space to spontaneously grow and flourish.
 
