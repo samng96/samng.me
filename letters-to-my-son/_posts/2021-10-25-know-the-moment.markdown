@@ -25,8 +25,6 @@ So how do we grow this skill? A few thoughts.
 
 > "Anybody can become angry - that is easy; but to be angry with the right person, and to the right degree, and at the right time, and for the right purpose, and in the right way- that is not within everybody's power and is not easy".
 
-How true that is. Let us not act in such a state!
-
 3. **Practice empathy**. Knowing the right moment begins with understanding the people around you. Understand their perspective, their thoughts, their circumstances, and their fears. By building the muscle that allows a greater understanding of our compatriots, we put ourselves in the position to better anticipate the situation and therefore more likely to know the right moment to act.
 
 4. **Be thoughtful of the future**. Not just your future, but that of others. Is your friend about to enter into a difficult situation? Is your brother about to start a new job? Is your boss' wife about to give birth to their first child? Knowing these things and being thoughtful about them will help you be more prepared to anticipate outcomes. Remember that the future is impacted by a variety of factors - a person's desires, the community that they keep, their family, the circumstances of their job, even plain dumb luck. All of these, and many other factors, can and will influence the future.
