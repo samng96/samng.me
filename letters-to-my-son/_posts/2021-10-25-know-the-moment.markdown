@@ -19,23 +19,23 @@ We must realize that everyone - ourselves included - has bad days where their th
 
 So how do we grow this skill? A few thoughts.
 
-####Be aware####
+#### BE AWARE
 It is important to be constantly aware of how important timing is. We are trained to be concerned with content, with delivery, with action, and with substance. While those are absolutely important things, we must realize and give credence to the reality that timing is critical. Even if all else is perfect, if the timing is off, if the moment isn't right, failure (or at least a sub-optimal outcome) is guaranteed.
 
-####Be resolved never to speak or act in anger or frustration####
+#### BE RESOLVED NEVER TO SPEAK OR ACT IN ANGER OR FRUSTRATION
 These emotions (and others: jealousy, wounded pride, resentment, fear etc.) make us irrational, and often cause us to say or do things inconsistent with our values, and often cause irreparable damage. Aristotle wrote,
 
 > "Anybody can become angry - that is easy; but to be angry with the right person, and to the right degree, and at the right time, and for the right purpose, and in the right way- that is not within everybody's power and is not easy".
 
 How true that is. Let us not act in such a state!
 
-####Practice empathy####
+#### PRACTICE EMPATHY
 Knowing the right moment begins with understanding the people around you. Understand their perspective, their thoughts, their circumstances, and their fears. By building the muscle that allows a greater understanding of our compatriots, we put ourselves in the position to better anticipate the situation and therefore more likely to know the right moment to act.
 
-####Be thoughtful of the future####
+#### BE THOUGHTFUL OF THE FUTURE
 Not just your future, but that of others. Is your friend about to enter into a difficult situation? Is your brother about to start a new job? Is your boss' wife about to give birth to their first child? Knowing these things and being thoughtful about them will help you be more prepared to anticipate outcomes. Remember that the future is impacted by a variety of factors - a person's desires, the community that they keep, their family, the circumstances of their job, even plain dumb luck. All of these, and many other factors, can and will influence the future.
 
-####Build patience####
+#### BUILD PATIENCE
 Lastly, build your staying power, your perseverance, your ability to wait not only for the right moment to come around (and it will come around) but also for the universe to come round and adjust to the changes you've already initiated.
 
 <center>• • •</center><br>
