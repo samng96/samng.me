@@ -1,6 +1,6 @@
 ---
 layout: letter
-title: "Relationships"
+title: "Personality vs Character"
 date: 2022-05-03 18:18:25 -0700
 tags:
 - Personality
