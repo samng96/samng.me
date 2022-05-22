@@ -13,11 +13,11 @@ My sons,
 
 From early childhood, we're taught that exercise is good. Outdoor play and physical exertion is built into every school curriculum from the minute we're conscious. Exercise is our body's way of developing, of building muscle, of growing. We're taught to lean into the soreness, to relish and nurture the pain because pain means our muscles will be rebuilt stronger.
 
-The problem is that many of us don't exercise our physical bodies. We've become lazy, sedentary. Worst of all, we've allowed that lazy and sendentary mindset to carry to our mental and emotional lives! This trend is creating not just physically unhealthy humans, but mentally and emotionally unhealthy ones.
+The problem is that many of us don't exercise our physical bodies. We've become lazy, sedentary. Worst of all, we've allowed that lazy and sedentary mindset to carry to our mental and emotional lives! This trend is creating not just physically unhealthy humans, but mentally and emotionally unhealthy ones.
 
 Our physical bodies need exercise. So do our mental and emotional ones.
 
-Many of us make New Years resolutions to exercise more, to go to the gym, to eat healthier, and to snack less. It's a well documented reality that gyms and other physical fitness institutions see an annual surge in memberships and attendance at the start of the year. We know that it is in our own best interests to physically exercise and to keep our bodies healthy.
+Many of us make New Years resolutions to exercise more, to go to the gym, to eat healthier, and to snack less. It's a well documented reality that gyms and other physical fitness institutions see an annual surge in memberships and attendance at the start of the year. We know that it is in our own best interest to physically exercise and to keep our bodies healthy.
 
 So how do we carry this through to our mental and emotional lives?
 
