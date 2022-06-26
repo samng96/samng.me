@@ -15,7 +15,7 @@ It's been said that personality is how we show up every day, but character is ho
 #### Personality
 Personality is about our preferences expressed. It is the set of default actions we take when we are at equilibrium, when we are able to behave as we'd like to.
 
-Our preferences are ever- evolving, and are a product of many complex inputs. There have been many studies and books written on the topic (a great one I read recently is [Wanting]("https://www.amazon.com/Wanting-Power-Mimetic-Desire-Everyday/dp/1250262488/") by Luke Burgis) showing that as much as we'd like to claim originality and uniqueness for our desires, many of them are in fact *mimetic* (fancy word for copied).
+Our preferences are ever- evolving, and are a product of many complex inputs. There have been many studies and books written on the topic (a great one I read recently is [Wanting](https://www.amazon.com/Wanting-Power-Mimetic-Desire-Everyday/dp/1250262488/) by Luke Burgis) showing that as much as we'd like to claim originality and uniqueness for our desires, many of them are in fact *mimetic* (fancy word for copied).
 
 Turns out human beings are great imitators. This is something we start immediately at conception, and is something we carry with us all the way into adulthood. It is a fact that is at once both our greatest strength to be capitalized upon and our largest weakness that can be (and is constantly being) exploited.
 

@@ -23,7 +23,7 @@ For example, we associate discipline with the ability to refrain from eating tha
 #### HABITS
 Habits on the other hand, are the actions that we take without much thought or intention. They are our body's default actions, our programmed auto-responses to stimuli and situations. They are often overlooked and not thought about precisely because they are automatic, and our conscious mind therefore does not detect them.
 
-I've read several great books on the topic - the two foremost authorities being ["The Power of Habit"]("https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X/") by Charles Duhigg, and ["Atomic Habits"]("https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/") by James Clear. They both define habits as being a multi-part function. The **cue** prompts us to **crave** the thing in question, which causes us to **respond** to the craving and gain the **reward** for our action.
+I've read several great books on the topic - the two foremost authorities being ["The Power of Habit"](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X/) by Charles Duhigg, and ["Atomic Habits"](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/) by James Clear. They both define habits as being a multi-part function. The **cue** prompts us to **crave** the thing in question, which causes us to **respond** to the craving and gain the **reward** for our action.
 
 For example, after dinner (cue) we desire to end on a sweet note (crave) and therefore procure a dessert (response) which makes us feel satisfied (reward).
 
