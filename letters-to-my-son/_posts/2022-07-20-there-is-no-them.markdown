@@ -1,7 +1,7 @@
 ---
 layout: letter
 title: "There is no 'them'"
-date: 2021-12-31 14:12:40 -0800
+date: 2022-07-20 14:12:40 -0800
 tags:
 - Conflict
 - Harmony
