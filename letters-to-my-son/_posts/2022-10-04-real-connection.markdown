@@ -35,11 +35,11 @@ That makes it really, *really* hard to put oneself out there.
 
 In his Paris address in April of 1910, Theodore Roosevelt gave what would become the most quoted speeches of his career, which many have now taken to calling "Man in the Arena". In it, he says:
 
-> "It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better.<br>
-> The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood;<br>
-> who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming;<br>
-> but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions;<br>
-> who spends himself in a worthy cause;<br>
+> "It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better.<br><br>
+> The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood;<br><br>
+> who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming;<br><br>
+> but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions;<br><br>
+> who spends himself in a worthy cause;<br><br>
 > who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat."
 
 #### Why we need real connection
