@@ -1,6 +1,6 @@
 ---
 layout: letter
-title: "We are not mind readers"
+title: "A balanced life"
 date: 2021-08-04 14:12:40 -0800
 tags:
 - Balance
