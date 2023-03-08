@@ -1,6 +1,6 @@
 ---
 layout: letter
-title: "Lean not on your own understanding... but have the courage to use it"
+title: "The joy of missing out"
 date: 2023-03-07 14:12:40 -0800
 tags:
 - Prioritization
