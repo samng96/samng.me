@@ -1,7 +1,7 @@
 ---
 layout: letter
 title: "Managing your time well"
-date: 2022-09-21 14:12:40 -0800
+date: 2020-09-21 14:12:40 -0800
 tags:
 - Prioritization
 - Time
