@@ -39,7 +39,7 @@ Slowly but surely our natural curiosity shrinks until we become caught in the ra
 We must craft an environment where curiosity flourishes, where people are able to explore, to try new things, to fail at things, and to share those learnings with others. We must give people the time, the physical space, and the mental headspace to venture out, to ask questions, and to stick their finger into the proverbial socket to see what happens.
 
 #### Constant feedback
-As leaders one of the most important things entrusted to us is the care for our people. As General Stanley McChystal puts it in his book [Team of Teams](“https://www.amazon.com/Team-Teams-Rules-Engagement-Complex/dp/1591847486”), leaders must take on the role of the gardener. The gardener has no direct ability to make plants grow. However, they do have the ability to cultivate the plants, to prune as needed, to till the soil, to water and provide nutrients, and to provide an environment that is ideal for growth.
+As leaders one of the most important things entrusted to us is the care for our people. As General Stanley McChystal puts it in his book [Team of Teams](https://www.amazon.com/Team-Teams-Rules-Engagement-Complex/dp/1591847486), leaders must take on the role of the gardener. The gardener has no direct ability to make plants grow. However, they do have the ability to cultivate the plants, to prune as needed, to till the soil, to water and provide nutrients, and to provide an environment that is ideal for growth.
 
 So too is it with leaders.
 
@@ -50,7 +50,7 @@ So how do we create this environment where people can flourish in their learning
 
 A few practical things we can do.
 
-1. Reward learning. When I was a new parent I was told that we should praise our children for the learning process, not for the accomplishment. In her book [Mindset](“https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322”) Carol Dweck argues that praising results creates a fixed mindset in our children who are hyper focused on results and not on the growth or the learning. We obtain what we measure and reward.
+1. Reward learning. When I was a new parent I was told that we should praise our children for the learning process, not for the accomplishment. In her book [Mindset](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322) Carol Dweck argues that praising results creates a fixed mindset in our children who are hyper focused on results and not on the growth or the learning. We obtain what we measure and reward.
 2. Lead by example. When I was at Microsoft, Bill Gates used to take what he called Think Week. It was a week where he would go off the grid and allow himself to learn. He would read. He would think. He would ponder. He would ruminate. And in doing so he set the example for his company that reading and learning were highly valued activities.
 3. Play the long game. Learning takes time to come into fruition. As teams and leaders, valuing learning from our people means that we need to have the patience for that growth to pay off. We have to invest in our people and have the mindset of long term benefits. When we are short sighted, when we become too caught up in tactics and immediate results, we stifle our people’s ability to participate in and to value learning.
 
