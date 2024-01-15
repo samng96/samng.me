@@ -17,7 +17,7 @@ In the 2015 Pixar movie *Inside Out*, the writers propose the concept of core me
 
 I believe the reason is that these memories are memories of *keystone moments* in our lives, moments that hold strong value and have an overall greater importance than the rest. But what are these keystone moments and why do they have such a strong impact? I'll define the following:
 
-*Keystone moments are moments that bring clarity to all the little moments along the way, causing us to introspect and compelling us to decision and action*.
+> *Keystone moments are moments that bring clarity to all the little moments along the way, causing us to introspect and compelling us to decision and action*.
 
 If it is true that our lives are indeed a string of events, a series of moments, then keystone moments are the ones that bring clarity, understanding, and unifying themes to some series of seemingly insignificant and disconnected moments along the way. They are moments that light up individual moments and allow us to see patterns and derive meaning from the otherwise endless and continuous stream of moments along our path. And they are moments that bring sharp attention and focus, compelling us to consciously examine ourselves and actively decide what path to choose next.
 
@@ -30,7 +30,7 @@ A trademark of a keystone moment in the making is that when it happens, we are c
 
 These moments strike a chord with us. They are moments that reach through the veneer of everyday life and touch some deeper vein of consciousness within us, begging us to turn off the autopilot of our lives and to strongly consider the implications of what we’ve just experienced. They resonate with our core values, perhaps contradicting, perhaps amplifying, but always causing us to pause and evaluate.
 
-#### Keystone moments cause action**
+#### Keystone moments cause action
 And in that evaluation we are moved to action. While our daily interactions sweep us along the current of the path we’re already on, keystone moments allow us to take a strong pivot and change the direction that we’re headed.
 
 One of the realities of an increasingly connected world is that the strength of the current of the path expected of us gets ever stronger. With an almost nonstop scrutinization of our lives in the form of friends, social media, professional networks, and public personas, the force required for us to adjust course is almost insurmountable for most.  
