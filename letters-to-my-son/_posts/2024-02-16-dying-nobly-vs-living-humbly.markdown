@@ -20,7 +20,9 @@ When we are young, we get fired up. We lean into causes, we want to go all out. 
 
 Our culture promotes this. We revere fallen heroes, we memorialize those who have made the ultimate sacrifice. We write stories about those who stand up, those who fight the good fight, those who refuse to take injustice sitting down. Everything seems more dramatic, more urgent, more impactful.
 
-We feel more, love bigger, suffer more intensely, and even soliloquize more dramatically. How many of us have not spent agonizing hours in a hair-pulling, helpless, even hopeless state over some unrequited love, some immovable and unchangeable consequence that prevents us from pure joy? And how many still cannot commiserate with the thought of making some life-ending (or at least, life-changing), impulsive, and probably stupid gesture as a result?
+We feel more, love bigger, suffer more intensely, and even soliloquize more dramatically. We dream big. We long for a perfect world. We see injustice and we want to fight it. We see suffering and we want to end it. And we want to make grand gestures to do it!
+
+Unfortunately, we are also indiscriminating about the cause which we want to fling ourselves headlong into. How many of us have not spent agonizing hours in a hair-pulling, helpless, even hopeless state over some unrequited love, some immovable and unchangeable consequence that prevents us from pure joy? And how many still cannot commiserate with the thought of making some life-ending (or at least, life-changing), impulsive, and probably stupid gesture as a result?
 
 Come now. Be honest.
 
@@ -61,4 +63,4 @@ By no means do I have all the answers, and by no means have I figured this out i
 2. **Read. A lot.** One of the most beneficial impacts of reading is that it puts us in our place. It causes us to come to terms with the fact that there is an incomprehensible amount of information, knowledge, and wisdom that we do not possess. At the time of this writing, it is estimated that the world currently contains anywhere between 125-150 million books. The amount of collective wisdom, experience, and knowledge contained in those volumes is enough to humble even the most arrogant among us.
 3. **Measure your learnings, not your accomplishments.** Instead of measuring what you’ve done, measure what you’ve learned. What we’ve learned tells us story of the journey; what we’ve done, the destination. The journey is infinitely more interesting.
 
-My boys, my desire for your lives is that you would be kind, that you would be surrounded by people of integrity, and above all else that you would live lives characterized by a posture of humility and an eagerness to learn. 
+My boys, my desire for your lives is that you would be kind, that you would be surrounded by people of integrity, and above all else that you would live lives characterized by a posture of humility and an eagerness to learn.
