@@ -15,7 +15,7 @@ When I graduated from college, someone said to me (in jest, I hope, but at the t
 
 Turns out that mindset is not only wrong, it is incredibly limiting.
 
-When we think about our “adult life” as the second act of our life, one where we are constantly making progress along one single story arc, then we pigeon hole ourselves into the fallacy that it must therefore be the concluding act to the first act of life. And since most (if not all) of the first act was hyper focused on schooling and studying *so that we can have successful careers*, we can easily be misled into the falsehood that career success is the only *true* measure of a great life. 
+When we think about our “adult life” as the second act of our life, one where we are constantly making progress along one single story arc, then we pigeon hole ourselves into the fallacy that it must therefore be the concluding act to the first act of life. And since most (if not all) of the first act was hyper focused on schooling and studying *so that we can have successful careers*, we can easily be misled into the falsehood that career success is the only *true* measure of a great life.
 
 It’s easy to think of our entire adult life as a one-act play, that the thing we’re doing right now is the final act. There is a finality to that belief. It at best causes us to think of decisions as incredibly grave, important, and unchanging, and at worst causes us to feel stuck, to feel stagnant, and to be slowly driven to a crises of being, often referred to as the mid life crisis.
 
@@ -45,7 +45,7 @@ As I reminisce on my college days I am reminded of how alive every experience fe
 
 We need to keep that mindset. That lack of finality allows us to invest in all sorts of things that we would otherwise shy away from, and that creates an incredibly limited life.
 
-**We are free to be alone**
+#### We are free to be alone
 There is a difference between being alone and being lonely. The Theologian and philosopher Paul Tillich wrote that “Solitude expresses the glory of being alone, whereas loneliness expresses the pain of feeling alone.”
 
 It is regrettable that many feel lonely, though it is not the topic du jour (though it is likely one we’ll touch on later). It is, however, wonderful to spend time alone, to glory in the experiences that can only had when one is alone. Self-examination and self-discovery are critical internal actions, but so are the external actions of self-reliance and the appreciation of solitary experiences. These are all possible because we know they are not final, because we know there are more acts to come.
