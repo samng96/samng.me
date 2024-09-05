@@ -19,7 +19,7 @@ If hobbies were mentioned and discussed, you were probably met with polite smile
 
 Unfortunately, that is a huge misunderstanding of the value of hobbies, and of the potential that having great hobbies unlocks in one’s life!
 
-**Why we have hobbies**
+#### Why we have hobbies
 Growing up in a western society taught me to live life for tomorrow. From an early age it was imprinted on me that we do what we do today so that tomorrow will be better. Get good grades in high school so that you can get into a good university. Learn a lot in university so that you can get a great internship that will lead to a full time job opportunity. Do well in your job so that you can climb the corporate ladder and have a great life. It seemed like everything was done expressly *for something else in the future*. Even volunteering was done so that it would look good on your college applications.
 
 That type of mindset misses the point altogether.
