@@ -1,7 +1,7 @@
 ---
 layout: letter
 title: "Trying something"
-date: 2024-12-14 14:12:40 -0800
+date: 2024-12-01 14:12:40 -0800
 tags:
 - Dream
 ---
