@@ -1,13 +1,10 @@
 ---
 layout: letter
-title: "The gentle whisper of inspiration"
-date: 2024-12-02 14:12:40 -0800
+title: "Trying something"
+date: 2024-12-14 14:12:40 -0800
 tags:
 - Dream
-- Inspiration
-- Listening
-- Mindfulness
 ---
 My sons,
 
-
+Not sure why this doesn't work.
