@@ -55,5 +55,3 @@ Passion is contagious. It is not learned, not cultivated, not given. It is *insp
 And so for the rare dream that does become a reality, for the one in a million dreams that is realized, we have a moral imperative to share it. When your dream becomes a reality, *it doesn't just belong to you*. It belongs to the people who helped you - your family, your friends, your coworkers. It belongs to the world.
 
 So share it. Share it for those who helped you get there. Share it for all those who may never have their own dreams realized, but want to be encouraged and uplifted by the stories of others. Share it as a testament to the power and beauty of the human spirit. Share it so that there is more light in the world than darkness. But most of all, *share it so that you never forget it*. 
-
-#writing/Making your dreams a reality#
