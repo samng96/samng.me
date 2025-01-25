@@ -28,11 +28,15 @@ How do illuminators all have the ability to do this?
 3. **They have resiliency**. Illuminators know that each individual instance is never the end of the world. They have a long term view of life, and know that every little setback, while unfortunate, does not define them. They understand that suffering too must play a part of meaning in the overarching story arc of their lives.
 
 #### A spirit of generosity
-Illuminators are generous. They are generous with their time, their resources, their care, and their intention. A very simple question one can ask oneself at the onset is:
+Illuminators are generous. They are generous with their time, their resources, their care, and their intention. They are about others, they are *for* others, and as a result, they have resounding impact; on us, on their communities, and in their world. We would do well to learn from them! 
+
+So where do we start? How do we take steps towards becoming an illuminator? A very simple question one can ask oneself at the onset is:
 
 > Do I take more from my world, or do I give more to it?
 
-Honestly reflecting on this will allow us to first determine our posture towards others. A few potential follow up questions:
+Reflecting on this will allow us to first determine our posture towards others. We must be honest in our self assessments. After all, we are the only ones that benefit from the work we do here! 
+
+Once we determine where we sit, and once we accurately assess our current impact, we can ask a few more potential follow up questions:
 
 1. In my personal time, am I regularly acting on behalf of others?
 2. Am I making my personal resources and skillset available to others?
@@ -40,6 +44,8 @@ Honestly reflecting on this will allow us to first determine our posture towards
 
 A spirit of generosity, of kindness, and of warmth needs to be cultivated over time, and can’t be faked. When you look into someone’s childhood, you get a window into the things that caused them to be the way that they are - the experiences, the learnings, the hurts, the fears - all of these help you understand how and why someone is wired the way that they are. So it is with us. When others look at us, they see the culmination of the experiences that we’ve had, and how we’ve responded to those experiences.
 
-It has been said that we are not defined by our experiences, but rather *by how we respond to those experiences*.
+It has been said that we are not defined by our experiences, but rather *by how we respond to those experiences*. 
+
+By doing the work, by thinking deeply and reflectively about ourselves, and by intentionally immersing ourselves with thoughts of this nature, we can literally *change our minds*. By meditating on the matter and spending time ruminating and reflecting on our own posture we train our minds to think differently, and to react and respond differently.
 
 And so my sons, my hope for you is that you are reflective in your response to your situations, and that you are intentional about cultivating a spirit of generosity. Do you enjoy helping others? Do you love giving back to your world? How do you treat others? How do you try to make your world a better place? By cultivating a spirit of generosity, you can become men that not only illuminate your relationships and local community but can become men that leave our world better than when you entered it.
