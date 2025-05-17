@@ -1,7 +1,7 @@
 ---
 layout: letter
 title: "The art of communication part 2: Know your audience"
-date: 2025-02-18 14:12:40 -0800
+date: 2025-03-09 14:12:40 -0800
 tags:
 - Communication
 - Empathy
