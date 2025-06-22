@@ -58,7 +58,7 @@ These are but a small number of considerations. There are many others - do you u
 
 A great way to practice and evolve your speaking style is to tell your story. Whether you’re telling the story of your career, your leadership style, or your personal influences, telling your story helps you refine your style and forces you to have a deeper awareness and understanding of yourself.
 
-If has been said that you can’t know who you really are unless you know how to tell your story. I would go further and posit that you can’t have a stable identity unless you take in the incoherent events of your live and give your life meaning by turning those events into a coherent story. So much of our human experience is being able to know who we are and being able to express ourselves and to tell the story of who we are and how we got here. 
+It has been said that you can’t know who you really are unless you know how to tell your story. I would go further and posit that you can’t have a stable identity unless you take in the incoherent events of your live and give your life meaning by turning those events into a coherent story. So much of our human experience is being able to know who we are and being able to express ourselves and to tell the story of who we are and how we got here. 
 
 As we *practice* telling our story and gauging the response of our audience, we can tweak and adjust our style and find the right balance to have our desired effect.
 
