@@ -1,7 +1,7 @@
 ---
 layout: letter
 title: "The art of communication part 3: Build your style"
-date: 2025-03-19 14:12:40 -0800
+date: 2025-04-19 14:12:40 -0800
 tags:
 - Communication
 - Character
