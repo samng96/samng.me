@@ -11,7 +11,6 @@ tags:
 ---
 My sons,
 
-# The attention economy
 I got my first iPhone a little over a decade ago. The iPhone 4S. It was beautiful. Crisp, clean lines. Beautiful form factor. Super rich and bright screen. Blazingly fast for its time. And full of all sorts of useful apps, games, and utilities. Arguably my favorite iPhone I’ve owned (and I’ve owned pretty much all of them since then), although that might be because back then you could take off the back plate and replace it with an aftermarket one, and I had a beautifully crisp white back plate with a Decepticon logo on it (thank you Richmond night market!).
 
 That first iPhone changed my life. I now had the mother of all Swiss Army knives in my pocket and could text, surf the web, watch movies, play games, respond to emails, manage my calendar, and oh so much more.
