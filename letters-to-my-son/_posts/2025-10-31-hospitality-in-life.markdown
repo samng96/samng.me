@@ -1,6 +1,6 @@
 ---
 layout: letter
-title: "Hospitality at work"
+title: "Hospitality in life"
 date: 2025-10-31 14:12:40 -0800
 tags:
 - Books
