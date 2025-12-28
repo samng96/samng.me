@@ -10,7 +10,7 @@ tags:
 ---
 My sons,
 
-We’ve been discussing the concept of hospitality, first [generally]() and then [as it applies to work](). We shift our focus now to how it applies in life. 
+We’ve been discussing the concept of hospitality, first [generally](https://samng.me/letters-to-my-son/2025/08/20/hospitality/) and then [as it applies to work](https://samng.me/letters-to-my-son/2025/09/19/hospitality-at-work/). We shift our focus now to how it applies in life. 
 
 I’ve always desired to be hospitable. When I was younger, I lived in a tiny 500 sqft studio apartment, but would regularly host groups of 4-5 of my friends to have a home cooked dinner and to play board games until late into the evening. I didn’t even own a dining table, so we all sat cross legged on the floor around my coffee table, which doubled as our board game surface once dinner was done. Every home I’ve had since then has been purchased with a view of how I can entertain people, and how I can grow the set of things as I learned to be more hospitable.
 
